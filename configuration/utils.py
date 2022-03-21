@@ -1,8 +1,8 @@
-
-
 # This is a polimorphic class for the enumeration. Do not change.
 def enum(**kwargs):
-    class Enum(object): pass
+    class Enum(object):
+        pass
+
     obj = Enum()
     obj.__dict__.update(kwargs)
     return obj

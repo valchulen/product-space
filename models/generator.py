@@ -2,6 +2,7 @@ from pypdevs.DEVS import AtomicDEVS
 
 from configuration.base import get_run_parameters
 
+
 class Generator(AtomicDEVS):
     def __init__(self):
         super(Generator, self).__init__("generator")

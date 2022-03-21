@@ -5,6 +5,7 @@ from pypdevs.DEVS import AtomicDEVS
 from configuration.base import get_run_parameters
 from configuration.utils import ProductSpaceProps
 
+
 class Country(AtomicDEVS):
     def __init__(self, name=None):
         super(Country, self).__init__(name)
@@ -31,4 +32,3 @@ class Country(AtomicDEVS):
         # logger.error(omega.max())
         exports = omega < big_omega
         self.state["competitive_exports"] = self.competitive_exports = exports | self.competitive_exports
-

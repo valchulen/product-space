@@ -1,8 +1,9 @@
-
 _PARAMETERS = None
+
 
 def get_run_parameters():
     return _PARAMETERS
+
 
 class Parameters:
     COUNTRIES = []

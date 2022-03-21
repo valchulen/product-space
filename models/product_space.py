@@ -1,3 +1,4 @@
+import logging
 import numpy as np
 from pypdevs.DEVS import CoupledDEVS
 
@@ -6,9 +7,12 @@ from configuration.utils import ProductSpaceProps
 
 from models.country import Country
 from models.generator import Generator
+logger = logging.getLogger(__name__)
+
 
 class ProductSpace(CoupledDEVS):
-    def __init__(self, name=None):
+    def __init__(self):
+        name = "ProductSpace"
         super(ProductSpace, self).__init__(name)
         self.generator = generator = Generator()
         self.addSubModel(generator)
@@ -23,13 +27,12 @@ class ProductSpace(CoupledDEVS):
             generator_port = generator.add_port(country.name)
             self.connectPorts(generator_port, country.in_port)
 
-
     def globalTransition(self, e_g, x_b_micro, *args, **kwargs):
         for country, competitive_exports in x_b_micro:
             self.state[country] = competitive_exports
         # if v2:
         self._calculate_phi_matrix()
-        # logger.error(self.state)
+        logger.error(self.state)
 
     def _calculate_phi_matrix(self):
         pass
