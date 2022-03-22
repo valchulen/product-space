@@ -7,7 +7,7 @@ def get_run_parameters():
 
 class Parameters:
     COUNTRIES = []
-    NUM_PRODUCTS = 0
+    X = None
     DIFFUSION_PARAMETER = 0.0
 
     def __init__(self, **kwargs):

@@ -1,0 +1,2 @@
+country_sitcproduct4digit_year.csv from https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H8SFD2
+- location_code, sitc_product_code as product_code, year, export_value, export_rca

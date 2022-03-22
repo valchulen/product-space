@@ -1,5 +1,6 @@
 import logging
 import argparse
+import pickle
 import numpy as np
 from pypdevs.simulator import Simulator
 
@@ -15,8 +16,12 @@ logger = logging.getLogger(__name__)
 def run_single(options):
     # TODO: @tobi hacer que esto ande con info :)
     logger.warning("Starting simulation with duration %d", options.duration)
+    data = pickle.load(options.X_matrices_file)
+    X_matrices = data["X_matrices"]
+
     configuration.base._PARAMETERS = configuration.base.Parameters(
-        countries=["ARG"], num_products=100, difussion_parameter=0.45
+        countries=["ARG", "CHL"], difussion_parameter=0.45,
+        X=X_matrices[options.year], num_products=X_matrices[options.year].shape[0]
     )
     environ = ProductSpace()
     sim = Simulator(environ)
@@ -29,6 +34,8 @@ def main():
     args = argparse.ArgumentParser()
     args.add_argument("--duration", "-d", type=int, required=True)
     args.add_argument("--logging-level", "-l", type=str, default="INFO")
+    args.add_argument("--X-matrices-file", "-f", type=argparse.FileType("rb"), default="data/stage1_data.pkl")
+    args.add_argument("--year", "-y", type=int, default=2000)
 
     options = args.parse_args()
 
