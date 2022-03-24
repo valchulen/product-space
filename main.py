@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 # Run a single experiment with the parameters configured in Parameters static class
 def run_single(options):
     # TODO: @tobi hacer que esto ande con info :)
-    logger.warning("Starting simulation with duration %d", options.duration)
+    logger.info("Starting simulation with duration %d", options.duration)
     data = pickle.load(options.X_matrices_file)
     X_matrices = data["X_matrices"]
 
@@ -39,7 +39,7 @@ def main():
 
     options = args.parse_args()
 
-    logger.setLevel(getattr(logging, options.logging_level.upper()))
+    logging.basicConfig(level=getattr(logging, options.logging_level.upper()))
     run_single(options)
 
 

@@ -32,7 +32,7 @@ class ProductSpace(CoupledDEVS):
             self.state[country] = competitive_exports
         # if v2:
         self._calculate_phi_matrix()
-        logger.error(self.state)
+        logger.info(self.state)
 
     def _calculate_phi_matrix(self):
         pass
