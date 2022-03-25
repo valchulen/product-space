@@ -1,9 +1,27 @@
 import pickle
 import pandas as pd
-df = pd.read_csv("stage1_year_product_country_rca.csv")
+import numpy as np
+
+df = pd.read_csv("stage1_year_product_country_rca.csv", dtype={'sitc_product_code': str})
+
+
+# TODO: chequear que realmente los grupos de productos sumas lo mismo que sus subgrupos
+def filter_product_groups(data):
+    prods = data['sitc_product_code'].unique()
+
+    def condition(product):
+        # No existe ningún producto que tiene como prefijo a este producto
+        return not np.vectorize(
+            lambda another_product: another_product != product and another_product.startswith(product)
+        )(prods).any()
+
+    base_products = list(filter(condition, prods))
+
+    return data[data['sitc_product_code'].isin(base_products)]
+
 
 # TODO: @valen transformar en un apply asi deja de ser feo
-# TODO: filtrar los productos que NO tienen 3 o 4 digitos (o 3), o son servicio
+df = filter_product_groups(df)
 df = df.pivot(index='year', columns=['sitc_product_code', 'location_code'], values="export_rca")
 
 products = df.iloc[0].index.unique(0).to_list()
