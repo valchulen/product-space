@@ -12,9 +12,9 @@ np.random.seed(100)
 
 logger = logging.getLogger(__name__)
 
+
 # Run a single experiment with the parameters configured in Parameters static class
 def run_single(options):
-    # TODO: @tobi hacer que esto ande con info :)
     logger.info("Starting simulation with duration %d", options.duration)
     data = pickle.load(options.X_matrices_file)
     X_matrices = data["X_matrices"]
