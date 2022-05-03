@@ -7,10 +7,10 @@ from configuration.utils import ProductSpaceProps
 
 
 class Country(AtomicDEVS):
-    def __init__(self, name=None):
+    def __init__(self, name=None, competitive_exports=None):
         super(Country, self).__init__(name)
         self.elapsed = 0
-        self.competitive_exports = np.random.randint(0, 2, get_run_parameters().NUM_PRODUCTS)
+        self.competitive_exports = competitive_exports
         self.state = {"competitive_exports": self.competitive_exports}
         self.y_up = self.competitive_exports
         self.in_port = self.addInPort("diffusion")

@@ -20,7 +20,7 @@ def run_single(options):
     X_matrices = data["X_matrices"]
 
     configuration.base._PARAMETERS = configuration.base.Parameters(
-        countries=["ARG", "CHL"], difussion_parameter=0.45,
+        countries=data["countries"], difussion_parameter=0.45,
         X=X_matrices[options.year], num_products=X_matrices[options.year].shape[0]
     )
     environ = ProductSpace()
