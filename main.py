@@ -20,8 +20,10 @@ def run_single(options):
     X_matrices = data["X_matrices"]
 
     configuration.base._PARAMETERS = configuration.base.Parameters(
-        countries=data["countries"], difussion_parameter=0.45,
-        X=X_matrices[options.year], num_products=X_matrices[options.year].shape[0]
+        countries=data["countries"],
+        diffusion_parameter=options.big_omega,
+        X=X_matrices[options.year],
+        num_products=X_matrices[options.year].shape[0],
     )
     environ = ProductSpace()
     sim = Simulator(environ)
@@ -36,6 +38,7 @@ def main():
     args.add_argument("--logging-level", "-l", type=str, default="INFO")
     args.add_argument("--X-matrices-file", "-f", type=argparse.FileType("rb"), default="data/stage1_data.pkl")
     args.add_argument("--year", "-y", type=int, default=2000)
+    args.add_argument("--big-omega", type=float, default=0.55)
 
     options = args.parse_args()
 
