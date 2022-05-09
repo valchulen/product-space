@@ -1,6 +1,7 @@
 import logging
 import argparse
 import pickle
+from metrics.saver import export_metrics, start_metrics
 import numpy as np
 from pypdevs.simulator import Simulator
 
@@ -25,11 +26,13 @@ def run_single(options):
         X=X_matrices[options.year],
         num_products=X_matrices[options.year].shape[0],
     )
+    start_metrics()
     environ = ProductSpace()
     sim = Simulator(environ)
     sim.setTerminationTime(options.duration)
     sim.setClassicDEVS()
     sim.simulate()
+    export_metrics(options.metrics_folder)
 
 
 def main():
@@ -38,7 +41,8 @@ def main():
     args.add_argument("--logging-level", "-l", type=str, default="INFO")
     args.add_argument("--X-matrices-file", "-f", type=argparse.FileType("rb"), default="data/stage1_data.pkl")
     args.add_argument("--year", "-y", type=int, default=2000)
-    args.add_argument("--big-omega", type=float, default=0.55)
+    args.add_argument("--big-omega", "-O", type=float, default=0.55)
+    args.add_argument("--metrics-folder", "-m", type=str)
 
     options = args.parse_args()
 

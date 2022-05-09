@@ -1,4 +1,5 @@
 import logging
+from metrics.saver import save_competitive_exports, save_omega
 import numpy as np
 from pypdevs.DEVS import AtomicDEVS
 
@@ -15,6 +16,8 @@ class Country(AtomicDEVS):
         # logger.error("%s: %s", name, competitive_exports)
         self.elapsed = 0
         self.competitive_exports = competitive_exports
+        self.year_elapsed = 0
+        save_competitive_exports(self.competitive_exports, self.name, self.year_elapsed)
         self.state = {"competitive_exports": self.competitive_exports}
         self.y_up = self.competitive_exports
         self.in_port = self.addInPort("diffusion")
@@ -27,13 +30,17 @@ class Country(AtomicDEVS):
             if port.name == "diffusion":
                 self.diffuse(value, self.parent.getContextInformation(ProductSpaceProps.PHI_MATRIX))
                 self.y_up = (self.name, self.state["competitive_exports"])
+                self.year_elapsed += 1
         return self.state
 
     def diffuse(self, big_omega, phi_matrix):
         omega = self.competitive_exports @ phi_matrix
         phi_sum = phi_matrix @ np.ones_like(omega)
         omega = np.nan_to_num(omega / phi_sum)
+        save_omega(omega, self.name, self.year_elapsed)
+        # print(self.elapsed)
         exports = omega < big_omega
         if (exports & ~self.competitive_exports).sum() > 0:
             logger.error("%s discovered %d new products", self.name, (exports & ~self.competitive_exports).sum())
         self.state["competitive_exports"] = self.competitive_exports = exports | self.competitive_exports
+        save_competitive_exports(self.competitive_exports, self.name, self.year_elapsed + 1)
