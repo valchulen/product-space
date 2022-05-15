@@ -39,7 +39,7 @@ class Country(AtomicDEVS):
         omega = np.nan_to_num(omega / phi_sum)
         save_omega(omega, self.name, self.year_elapsed)
         # print(self.elapsed)
-        exports = omega < big_omega
+        exports = omega > big_omega
         if (exports & ~self.competitive_exports).sum() > 0:
             logger.error("%s discovered %d new products", self.name, (exports & ~self.competitive_exports).sum())
         self.state["competitive_exports"] = self.competitive_exports = exports | self.competitive_exports
