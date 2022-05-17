@@ -34,12 +34,9 @@ class Country(AtomicDEVS):
         return self.state
 
     def diffuse(self, big_omega, phi_matrix):
-        omega = self.competitive_exports @ phi_matrix
-        phi_sum = phi_matrix @ np.ones_like(omega)
-        omega = np.nan_to_num(omega / phi_sum)
-        save_omega(omega, self.name, self.year_elapsed)
-        # print(self.elapsed)
-        exports = omega > big_omega
+        phi_neighbour_max = (phi_matrix @ np.diagflat(self.competitive_exports)).max(1)
+        save_omega(phi_neighbour_max, self.name, self.year_elapsed)
+        exports = phi_neighbour_max > big_omega
         if (exports & ~self.competitive_exports).sum() > 0:
             logger.error("%s discovered %d new products", self.name, (exports & ~self.competitive_exports).sum())
         self.state["competitive_exports"] = self.competitive_exports = exports | self.competitive_exports
