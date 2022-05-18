@@ -1,23 +1,24 @@
 import os
 import pandas as pd
+import numpy as np
 
-OMEGA = None
+D_VECTOR = None
 COMPETETIVE_EXPORTS = None
 
 
 def start_metrics():
-    global OMEGA, COMPETETIVE_EXPORTS
-    OMEGA = []
+    global D_VECTOR, COMPETETIVE_EXPORTS
+    D_VECTOR = []
     COMPETETIVE_EXPORTS = []
 
 
 def export_metrics(metrics_folder=None):
     metrics_folder = metrics_folder or "metrics"
-    max_omega = pd.DataFrame(
-        data=[(country, generation, omega.max(), omega.min(), omega.mean()) for (country, generation, omega) in OMEGA],
-        columns=("country", "generation", "max_omega", "min_omega", "mean_omega"),
+    d_vector_df = pd.DataFrame(
+        data=[(country, generation, np.percentile(d, 25), np.percentile(d, 75), d.mean()) for (country, generation, d) in D_VECTOR],
+        columns=("country", "generation", "p25", "p75", "mean_d"),
     )
-    max_omega.to_csv(os.path.join(metrics_folder, "omega.csv"), index=False)
+    d_vector_df.to_csv(os.path.join(metrics_folder, "d_vector.csv"), index=False)
     exports = pd.DataFrame(
         data=[(country, generation, exports.sum()) for (country, generation, exports) in COMPETETIVE_EXPORTS],
         columns=("country", "generation", "count_exports"),
@@ -25,11 +26,11 @@ def export_metrics(metrics_folder=None):
     exports.to_csv(os.path.join(metrics_folder, "exports.csv"), index=False)
 
 
-def save_omega(omega, country, generation):
-    global OMEGA
-    OMEGA.append((country, generation, omega))
+def save_d_vector(d, country, generation):
+    global D_VECTOR
+    D_VECTOR.append((country, generation, d))
 
 
 def save_competitive_exports(exports, country, generation):
     global COMPETETIVE_EXPORTS
-    COMPETETIVE_EXPORTS.append((country, generation, exports))
+    COMPETETIVE_EXPORTS.append((country, generation, exports.copy()))

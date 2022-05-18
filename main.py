@@ -27,7 +27,7 @@ def run_single(options):
         num_products=X_matrices[options.year].shape[0],
     )
     start_metrics()
-    environ = ProductSpace()
+    environ = ProductSpace(should_update_phi_matrix=options.phi_matrix_update)
     sim = Simulator(environ)
     sim.setTerminationTime(options.duration)
     sim.setClassicDEVS()
@@ -43,6 +43,7 @@ def main():
     args.add_argument("--year", "-y", type=int, default=2000)
     args.add_argument("--big-omega", "-O", type=float, default=0.55)
     args.add_argument("--metrics-folder", "-m", type=str)
+    args.add_argument("--phi-matrix-update", "-u", type=bool, default=False)
 
     options = args.parse_args()
 

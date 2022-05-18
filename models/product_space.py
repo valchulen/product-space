@@ -12,17 +12,19 @@ logger = logging.getLogger(__name__)
 
 
 class ProductSpace(CoupledDEVS):
-    def __init__(self):
+    def __init__(self, should_update_phi_matrix=False):
         name = "ProductSpace"
         super(ProductSpace, self).__init__(name)
         self.generator = generator = Generator()
         self.addSubModel(generator)
+        self.update_phi_matrix = should_update_phi_matrix
         self.state = state = {}
-        competitive_exports_matrix = get_run_parameters().X
+        self.competitive_exports_matrix = competitive_exports_matrix = get_run_parameters().X.copy()
         self.countries = countries = [
             Country(country_name, competitive_exports_matrix[:, c])
             for c, country_name in enumerate(get_run_parameters().COUNTRIES)
         ]
+
         self._calculate_phi_matrix(competitive_exports_matrix)
         for country in countries:
             self.addSubModel(country)
@@ -33,7 +35,9 @@ class ProductSpace(CoupledDEVS):
     def globalTransition(self, e_g, x_b_micro, *args, **kwargs):
         for country, competitive_exports in x_b_micro:
             self.state[country] = competitive_exports
-        self._calculate_phi_matrix(get_run_parameters().X)
+            self.competitive_exports_matrix[:, get_run_parameters().COUNTRIES.index(country)] = competitive_exports
+        if self.update_phi_matrix:
+            self._calculate_phi_matrix(self.competitive_exports_matrix)
 
     def _calculate_phi_matrix(self, X):
         # phi[i,j] = sumatoria_c (Xci * Xcj)
