@@ -5,3 +5,4 @@ pypdevs
 omega.csv
 exports.csv
 .ipynb_checkpoints
+!experimentacion/*/exports.csv
