@@ -32,7 +32,7 @@ def run_single(options):
     sim.setTerminationTime(options.duration)
     sim.setClassicDEVS()
     sim.simulate()
-    export_metrics(options.metrics_folder)
+    export_metrics(options.metrics_folder, options.exports_history)
 
 
 def main():
@@ -44,6 +44,7 @@ def main():
     args.add_argument("--big-omega", "-O", type=float, default=0.55)
     args.add_argument("--metrics-folder", "-m", type=str)
     args.add_argument("--phi-matrix-update", "-u", type=bool, default=False)
+    args.add_argument("--exports-history", "-e", type=bool, default=False)
 
     options = args.parse_args()
 
