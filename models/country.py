@@ -33,6 +33,8 @@ class Country(AtomicDEVS):
         return self.state
 
     def diffuse(self, big_omega, phi_matrix):
+        # Pongo en 0 los elementos de productos que no se producen
+        # Luego se toma maximo por fila
         d = (phi_matrix @ np.diagflat(self.competitive_exports)).max(1)
         save_d_vector(d, self.name, self.year_elapsed)
         exports = d > big_omega
