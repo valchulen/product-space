@@ -1,11 +1,11 @@
 # Este script toma la información descargada del dataverse y la reduce para poder agregarla al repositorio
 import pandas as pd
 
-df = pd.read_csv("country_sitcproduct4digit_year.csv")
+desired_columns = ["year", "sitc_product_code", "location_code", "export_value", "import_value", "export_rca"]
 
-desired_columns = ["year", "sitc_product_code", "location_code", "export_value", "export_rca"]
-df = df[desired_columns]
-df.fillna(0.0)
+df = pd.read_csv("country_sitcproduct4digit_year.csv", usecols=desired_columns, dtype={"sitc_product_code": str})
+# Filtro los productos sin RCA, que en realidad son servicios y no deben ser contemplados
+df = df[df.export_rca.notnull()]
 
 export_totals_by_product = (
     df[["year", "sitc_product_code", "export_value"]].groupby(["year", "sitc_product_code"]).sum()
@@ -38,7 +38,8 @@ df = df.merge(
 df["rca"] = (df.export_value / df.export_value_country_total) / (
     df.export_value_product_total / df.export_value_year_total
 )
-((df.export_rca - df.rca) / df.export_rca).abs().describe()
+df["err"] = (df.export_rca - df.rca).abs()
+df.err.describe()
 # Calculamos el RCA para poder compararlo, dio error pero tampoco imposible, decidimos usar el RCA provisto por el dataset
 df = df.reset_index()[["year", "sitc_product_code", "location_code", "export_rca"]]
 df.to_csv("stage1_year_product_country_rca.csv", index=False)
