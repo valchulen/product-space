@@ -51,6 +51,6 @@ class ProductSpaceGraph:
 
         for iterations, color in color_dict.items():
             plt.plot([0], [0], 'o', color=color, label=iterations)
-
+        plt.plot([0], [0], 'o', color='white')
         plt.legend(title="Pasos de simulación")
         plt.title(title)
