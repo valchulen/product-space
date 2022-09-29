@@ -10,3 +10,8 @@ Instalar extensiones:
 ```
 jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyterlab-plotly
 ```
+
+# Notebooks
+
+- TP.ipynb: notebook principal donde se explica el modelo y se muestra resultados de la experimentación realizada para el TP
+- Replica.ipynb: testeos hechos para intentar replicar la publicación original de Hidalgo

@@ -29,7 +29,11 @@ class ProductSpaceGraph:
 
     def mst(self):
         phi_0 = exports_to_phi(self.X_by_generation(0))
-        return nx.maximum_spanning_tree(nx.from_numpy_array(phi_0))
+        mst = nx.maximum_spanning_tree(nx.from_numpy_array(phi_0))
+        # Hidalgo agrega aristas importantes al MST
+        G = nx.compose(mst, nx.from_numpy_array(1* (phi_0 > 0.55)))
+        G.remove_edges_from(nx.selfloop_edges(G))
+        return G
 
     def plot(self, country, title):
         plt.figure(figsize=(12, 10))
@@ -46,8 +50,10 @@ class ProductSpaceGraph:
         def select_color(value):
             return color_dict.get(value, "black")
 
-        nx.draw_kamada_kawai(self.mst(), node_size=50,
-                                     node_color=self.product_discovery(country).apply(select_color))
+        G = self.mst()
+        nx.draw(G, pos=nx.kamada_kawai_layout(G),
+            node_size=40, edge_color='gray',
+            node_color=self.product_discovery(country).apply(select_color))
 
         for iterations, color in color_dict.items():
             plt.plot([0], [0], 'o', color=color, label=iterations)

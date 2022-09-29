@@ -26,7 +26,7 @@ def exports_to_phi(X):
 
 
 class ProductSpace(CoupledDEVS):
-    def __init__(self, should_update_phi_matrix=False):
+    def __init__(self, should_update_phi_matrix=False, use_initial_phi_matrix=False):
         name = "ProductSpace"
         super(ProductSpace, self).__init__(name)
         self.generator = generator = Generator()
@@ -38,8 +38,11 @@ class ProductSpace(CoupledDEVS):
             Country(country_name, competitive_exports_matrix[:, c])
             for c, country_name in enumerate(get_run_parameters().COUNTRIES)
         ]
+        if use_initial_phi_matrix:
+            self.state["phi_matrix"] = self.phi_matrix = get_run_parameters().phi.copy()
+        else:
+            self._calculate_phi_matrix(competitive_exports_matrix)
 
-        self._calculate_phi_matrix(competitive_exports_matrix)
         for country in countries:
             self.addSubModel(country)
             state[country.name] = []

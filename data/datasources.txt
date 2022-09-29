@@ -1,2 +1,7 @@
 country_sitcproduct4digit_year.csv from https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H8SFD2
 - location_code, sitc_product_code as product_code, year, export_value, export_rca
+
+wtf_data from https://cid.econ.ucdavis.edu/data/undata/undata.html
+https://cid.econ.ucdavis.edu/data/undata/wtf98.zip
+https://cid.econ.ucdavis.edu/data/undata/wtf99.zip
+https://cid.econ.ucdavis.edu/data/undata/wtf00.zip

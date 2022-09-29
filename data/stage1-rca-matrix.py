@@ -2,7 +2,7 @@ import pickle
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv("stage1_year_product_country_rca_custom.csv", dtype={"sitc_product_code": str})
+df = pd.read_csv("stage1_year_product_country_rca.csv", dtype={"sitc_product_code": str})
 
 df = df.pivot(index="year", columns=["sitc_product_code", "location_code"], values="export_rca")
 
@@ -15,7 +15,7 @@ for year in df.index:
     X = 1 * (X > 1)
     matrices[year] = X
 
-with open("stage1_data_custom.pkl", "wb") as out:
+with open("stage1_data.pkl", "wb") as out:
     pickle.dump(
         {
             "X_matrices": matrices,
