@@ -8,6 +8,7 @@ def get_run_parameters():
 class Parameters:
     COUNTRIES = []
     X = None
+    PHI = None
     DIFFUSION_PARAMETER = 0.0
 
     def __init__(self, **kwargs):

@@ -18,12 +18,15 @@ logger = logging.getLogger(__name__)
 def run_single(options):
     logger.info("Starting simulation with duration %d", options.duration)
     data = pickle.load(options.X_matrices_file)
+    if data.get("phi") is not None:
+        logger.info("Using phi matrix from data file")
     X_matrices = data["X_matrices"]
 
     configuration.base._PARAMETERS = configuration.base.Parameters(
         countries=data["countries"],
         diffusion_parameter=options.big_omega,
         X=X_matrices[options.year],
+        PHI=data.get("phi"),
         num_products=X_matrices[options.year].shape[0],
     )
     start_metrics()

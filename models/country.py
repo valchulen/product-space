@@ -3,11 +3,9 @@ from metrics.saver import save_competitive_exports, save_d_vector
 import numpy as np
 from pypdevs.DEVS import AtomicDEVS
 
-logger = logging.getLogger(__name__)
-
-
-from configuration.base import get_run_parameters
 from configuration.utils import ProductSpaceProps
+
+logger = logging.getLogger(__name__)
 
 
 class Country(AtomicDEVS):
