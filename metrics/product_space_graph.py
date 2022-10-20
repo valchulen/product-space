@@ -35,8 +35,8 @@ class ProductSpaceGraph:
         G.remove_edges_from(nx.selfloop_edges(G))
         return G
 
-    def plot(self, country, title):
-        plt.figure(figsize=(12, 10))
+    def plot(self, country, title=None, legend_title="Pasos de simulación", figsize=(12, 10)):
+        plt.figure(figsize=figsize)
 
         # Fue la mejor forma que encontré de poner un color distinto a los NaN (productos que nunca se llegan a desarrollar)
         color_dict = {
@@ -58,5 +58,6 @@ class ProductSpaceGraph:
         for iterations, color in color_dict.items():
             plt.plot([0], [0], 'o', color=color, label=iterations)
         plt.plot([0], [0], 'o', color='white')
-        plt.legend(title="Pasos de simulación")
-        plt.title(title)
+        plt.legend(title=legend_title)
+        if title:
+            plt.title(title)
