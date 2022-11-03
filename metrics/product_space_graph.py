@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import networkx as nx
 import numpy as np
 import pandas as pd
+import math
 
 from models.product_space import exports_to_phi
 
@@ -35,12 +36,12 @@ class ProductSpaceGraph:
         G.remove_edges_from(nx.selfloop_edges(G))
         return G
 
-    def plot(self, country, title=None, legend_title="Pasos de simulación", figsize=(12, 10)):
+    def plot(self, country, title=None, legend_title="Pasos de simulación", figsize=(12, 10), node_size=20, show_t0=True):
         plt.figure(figsize=figsize)
 
         # Fue la mejor forma que encontré de poner un color distinto a los NaN (productos que nunca se llegan a desarrollar)
         color_dict = {
-            0: "green",
+            0: "green" if show_t0 else "gainsboro", #"green",
             1: "greenyellow",
             2: "yellow",
             3: "orange",
@@ -48,16 +49,18 @@ class ProductSpaceGraph:
         }
 
         def select_color(value):
-            return color_dict.get(value, "black")
+            return color_dict.get(value, "gainsboro")
 
         G = self.mst()
-        nx.draw(G, pos=nx.kamada_kawai_layout(G),
-            node_size=40, edge_color='gray',
-            node_color=self.product_discovery(country).apply(select_color))
 
-        for iterations, color in color_dict.items():
-            plt.plot([0], [0], 'o', color=color, label=iterations)
-        plt.plot([0], [0], 'o', color='white')
-        plt.legend(title=legend_title)
+#        for iterations, color in color_dict.items():
+#            plt.plot([0], [0], 'o', color=color, label=iterations)
+
+        nx.draw(G, pos=nx.kamada_kawai_layout(G),
+                node_size=node_size, edge_color='gainsboro',
+                node_color=self.product_discovery(country).apply(select_color))
+
+        #plt.plot([0], [0], 'o', color='white')
+        #plt.legend(title=legend_title)
         if title:
             plt.title(title)

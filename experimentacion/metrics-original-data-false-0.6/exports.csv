@@ -1,0 +1,3991 @@
+country,generation,count_exports
+Afghanistan,0,41
+Afr.Other NS,0,9
+Africa N.NES,0,0
+Albania,0,90
+Algeria,0,21
+Angola,0,6
+Areas NES,0,118
+Argentina,0,163
+Armenia,0,56
+Asia NES,0,16
+Asia West NS,0,5
+Australia,0,151
+Austria,0,297
+Azerbaijan,0,55
+Bahamas,0,40
+Bahrain,0,51
+Bangladesh,0,56
+Barbados,0,54
+Belarus,0,60
+Belgium-Lux,0,308
+Belize,0,38
+Benin,0,30
+Bermuda,0,39
+Bolivia,0,75
+Bosnia Herzg,0,93
+Br.Antr.Terr,0,1
+Brazil,0,200
+Bulgaria,0,209
+Burkina Faso,0,36
+Burundi,0,10
+CACM NES,0,1
+Cambodia,0,38
+Cameroon,0,22
+Canada,0,195
+Cent.Afr.Rep,0,13
+Chad,0,8
+Chile,0,106
+China,0,247
+China FTZ,0,98
+China HK SAR,0,165
+China MC SAR,0,52
+Colombia,0,120
+Congo,0,20
+Costa Rica,0,64
+Cote Divoire,0,51
+Croatia,0,182
+Cuba,0,38
+Cyprus,0,109
+Czech Rep,0,298
+Dem.Rp.Congo,0,21
+Denmark,0,207
+Djibouti,0,15
+Dominican Rp,0,83
+EEC NES,0,8
+Ecuador,0,73
+Egypt,0,129
+El Salvador,0,54
+Eq.Guinea,0,9
+Estonia,0,118
+Ethiopia,0,33
+Eur.Other NE,0,6
+Falkland Is,0,15
+Fiji,0,62
+Finland,0,144
+Fr Ind O,0,11
+Fr.Guiana,0,1
+"France,Monac",0,333
+Gabon,0,14
+Gambia,0,17
+Georgia,0,77
+Germany,0,354
+Ghana,0,57
+Gibraltar,0,25
+Greece,0,206
+Greenland,0,21
+Guadeloupe,0,7
+Guatemala,0,77
+Guinea,0,24
+GuineaBissau,0,36
+Guyana,0,29
+Haiti,0,45
+Honduras,0,58
+Hungary,0,195
+Iceland,0,45
+India,0,214
+Indonesia,0,200
+Iran,0,36
+Iraq,0,3
+Ireland,0,98
+Israel,0,140
+Italy,0,330
+Jamaica,0,49
+Japan,0,198
+Jordan,0,98
+Kazakhstan,0,74
+Kenya,0,67
+Kiribati,0,28
+Korea D P Rp,0,134
+Korea Rep.,0,167
+Kuwait,0,15
+Kyrgyzstan,0,77
+LAIA NES,0,0
+Lao P.Dem.R,0,42
+Latvia,0,103
+Lebanon,0,98
+Liberia,0,11
+Libya,0,16
+Lithuania,0,138
+Madagascar,0,64
+Malawi,0,33
+Malaysia,0,101
+Mali,0,41
+Malta,0,47
+Mauritania,0,14
+Mauritius,0,50
+Mexico,0,145
+Mongolia,0,51
+Morocco,0,111
+Mozambique,0,57
+Myanmar,0,78
+Nepal,0,53
+Neth.Ant.Aru,0,29
+Netherlands,0,266
+Neutral Zone,0,2
+New Calednia,0,20
+New Zealand,0,144
+Nicaragua,0,48
+Niger,0,18
+Nigeria,0,25
+Norway,0,89
+Occ.Pal.Terr,0,5
+Oman,0,18
+Oth.Oceania,0,24
+Pakistan,0,106
+Panama,0,113
+Papua N.Guin,0,32
+Paraguay,0,76
+Peru,0,123
+Philippines,0,98
+Poland,0,285
+Portugal,0,200
+Qatar,0,16
+Rep Moldova,0,98
+Romania,0,178
+Russian Fed,0,111
+Rwanda,0,17
+Samoa,0,11
+Saudi Arabia,0,22
+Senegal,0,49
+Seychelles,0,15
+Sierra Leone,0,39
+Singapore,0,106
+Slovakia,0,205
+Slovenia,0,222
+Somalia,0,17
+South Africa,0,171
+Spain,0,310
+Sri Lanka,0,100
+St.Helena,0,8
+St.Kt-Nev-An,0,51
+St.Pierre Mq,0,6
+Sudan,0,32
+Suriname,0,27
+Sweden,0,206
+Switz.Liecht,0,219
+Syria,0,51
+TFYR Macedna,0,82
+Taiwan,0,176
+Tajikistan,0,43
+Tanzania,0,65
+Thailand,0,207
+Togo,0,27
+Trinidad Tbg,0,35
+Tunisia,0,122
+Turkey,0,222
+Turkmenistan,0,37
+UK,0,264
+US NES,0,34
+USA,0,322
+Uganda,0,33
+Ukraine,0,182
+Untd Arab Em,0,68
+Uruguay,0,138
+Uzbekistan,0,74
+Venezuela,0,52
+Viet Nam,0,123
+Yemen,0,18
+Yugoslavia,0,161
+Zambia,0,37
+Zimbabwe,0,84
+Afghanistan,1,60
+Afr.Other NS,1,10
+Africa N.NES,1,0
+Albania,1,112
+Algeria,1,21
+Angola,1,7
+Areas NES,1,161
+Argentina,1,176
+Armenia,1,76
+Asia NES,1,29
+Asia West NS,1,8
+Australia,1,160
+Austria,1,337
+Azerbaijan,1,78
+Bahamas,1,44
+Bahrain,1,68
+Bangladesh,1,58
+Barbados,1,83
+Belarus,1,78
+Belgium-Lux,1,335
+Belize,1,67
+Benin,1,39
+Bermuda,1,55
+Bolivia,1,92
+Bosnia Herzg,1,111
+Br.Antr.Terr,1,1
+Brazil,1,226
+Bulgaria,1,235
+Burkina Faso,1,41
+Burundi,1,14
+CACM NES,1,1
+Cambodia,1,46
+Cameroon,1,25
+Canada,1,220
+Cent.Afr.Rep,1,14
+Chad,1,8
+Chile,1,118
+China,1,257
+China FTZ,1,114
+China HK SAR,1,181
+China MC SAR,1,58
+Colombia,1,138
+Congo,1,21
+Costa Rica,1,82
+Cote Divoire,1,57
+Croatia,1,210
+Cuba,1,56
+Cyprus,1,137
+Czech Rep,1,339
+Dem.Rp.Congo,1,21
+Denmark,1,243
+Djibouti,1,21
+Dominican Rp,1,89
+EEC NES,1,16
+Ecuador,1,77
+Egypt,1,148
+El Salvador,1,67
+Eq.Guinea,1,11
+Estonia,1,141
+Ethiopia,1,34
+Eur.Other NE,1,9
+Falkland Is,1,18
+Fiji,1,69
+Finland,1,159
+Fr Ind O,1,15
+Fr.Guiana,1,1
+"France,Monac",1,372
+Gabon,1,18
+Gambia,1,23
+Georgia,1,107
+Germany,1,362
+Ghana,1,58
+Gibraltar,1,25
+Greece,1,229
+Greenland,1,21
+Guadeloupe,1,8
+Guatemala,1,83
+Guinea,1,25
+GuineaBissau,1,58
+Guyana,1,46
+Haiti,1,58
+Honduras,1,67
+Hungary,1,229
+Iceland,1,50
+India,1,229
+Indonesia,1,224
+Iran,1,38
+Iraq,1,3
+Ireland,1,112
+Israel,1,174
+Italy,1,346
+Jamaica,1,66
+Japan,1,214
+Jordan,1,120
+Kazakhstan,1,74
+Kenya,1,87
+Kiribati,1,30
+Korea D P Rp,1,170
+Korea Rep.,1,194
+Kuwait,1,16
+Kyrgyzstan,1,101
+LAIA NES,1,0
+Lao P.Dem.R,1,50
+Latvia,1,111
+Lebanon,1,117
+Liberia,1,12
+Libya,1,16
+Lithuania,1,151
+Madagascar,1,72
+Malawi,1,45
+Malaysia,1,124
+Mali,1,69
+Malta,1,71
+Mauritania,1,14
+Mauritius,1,58
+Mexico,1,172
+Mongolia,1,57
+Morocco,1,122
+Mozambique,1,78
+Myanmar,1,83
+Nepal,1,62
+Neth.Ant.Aru,1,33
+Netherlands,1,293
+Neutral Zone,1,2
+New Calednia,1,22
+New Zealand,1,174
+Nicaragua,1,59
+Niger,1,20
+Nigeria,1,27
+Norway,1,101
+Occ.Pal.Terr,1,6
+Oman,1,20
+Oth.Oceania,1,47
+Pakistan,1,113
+Panama,1,124
+Papua N.Guin,1,32
+Paraguay,1,91
+Peru,1,144
+Philippines,1,118
+Poland,1,319
+Portugal,1,228
+Qatar,1,34
+Rep Moldova,1,114
+Romania,1,198
+Russian Fed,1,124
+Rwanda,1,22
+Samoa,1,25
+Saudi Arabia,1,22
+Senegal,1,65
+Seychelles,1,16
+Sierra Leone,1,68
+Singapore,1,118
+Slovakia,1,237
+Slovenia,1,254
+Somalia,1,19
+South Africa,1,184
+Spain,1,341
+Sri Lanka,1,111
+St.Helena,1,12
+St.Kt-Nev-An,1,69
+St.Pierre Mq,1,7
+Sudan,1,36
+Suriname,1,27
+Sweden,1,225
+Switz.Liecht,1,248
+Syria,1,66
+TFYR Macedna,1,92
+Taiwan,1,210
+Tajikistan,1,56
+Tanzania,1,67
+Thailand,1,232
+Togo,1,31
+Trinidad Tbg,1,37
+Tunisia,1,137
+Turkey,1,241
+Turkmenistan,1,53
+UK,1,290
+US NES,1,52
+USA,1,344
+Uganda,1,35
+Ukraine,1,206
+Untd Arab Em,1,90
+Uruguay,1,166
+Uzbekistan,1,102
+Venezuela,1,60
+Viet Nam,1,129
+Yemen,1,19
+Yugoslavia,1,187
+Zambia,1,44
+Zimbabwe,1,100
+Afghanistan,2,70
+Afr.Other NS,2,10
+Africa N.NES,2,0
+Albania,2,126
+Algeria,2,21
+Angola,2,7
+Areas NES,2,187
+Argentina,2,182
+Armenia,2,88
+Asia NES,2,31
+Asia West NS,2,16
+Australia,2,168
+Austria,2,343
+Azerbaijan,2,83
+Bahamas,2,45
+Bahrain,2,76
+Bangladesh,2,58
+Barbados,2,100
+Belarus,2,80
+Belgium-Lux,2,340
+Belize,2,79
+Benin,2,45
+Bermuda,2,65
+Bolivia,2,97
+Bosnia Herzg,2,126
+Br.Antr.Terr,2,1
+Brazil,2,258
+Bulgaria,2,250
+Burkina Faso,2,49
+Burundi,2,21
+CACM NES,2,1
+Cambodia,2,47
+Cameroon,2,25
+Canada,2,252
+Cent.Afr.Rep,2,14
+Chad,2,8
+Chile,2,133
+China,2,265
+China FTZ,2,130
+China HK SAR,2,195
+China MC SAR,2,58
+Colombia,2,147
+Congo,2,21
+Costa Rica,2,92
+Cote Divoire,2,62
+Croatia,2,226
+Cuba,2,62
+Cyprus,2,142
+Czech Rep,2,354
+Dem.Rp.Congo,2,21
+Denmark,2,260
+Djibouti,2,26
+Dominican Rp,2,93
+EEC NES,2,19
+Ecuador,2,78
+Egypt,2,154
+El Salvador,2,77
+Eq.Guinea,2,11
+Estonia,2,151
+Ethiopia,2,34
+Eur.Other NE,2,12
+Falkland Is,2,21
+Fiji,2,72
+Finland,2,171
+Fr Ind O,2,15
+Fr.Guiana,2,1
+"France,Monac",2,384
+Gabon,2,24
+Gambia,2,45
+Georgia,2,131
+Germany,2,364
+Ghana,2,58
+Gibraltar,2,25
+Greece,2,244
+Greenland,2,21
+Guadeloupe,2,8
+Guatemala,2,87
+Guinea,2,25
+GuineaBissau,2,69
+Guyana,2,48
+Haiti,2,64
+Honduras,2,69
+Hungary,2,251
+Iceland,2,58
+India,2,246
+Indonesia,2,241
+Iran,2,38
+Iraq,2,3
+Ireland,2,127
+Israel,2,193
+Italy,2,350
+Jamaica,2,76
+Japan,2,223
+Jordan,2,137
+Kazakhstan,2,74
+Kenya,2,92
+Kiribati,2,30
+Korea D P Rp,2,189
+Korea Rep.,2,207
+Kuwait,2,16
+Kyrgyzstan,2,119
+LAIA NES,2,0
+Lao P.Dem.R,2,53
+Latvia,2,114
+Lebanon,2,123
+Liberia,2,12
+Libya,2,16
+Lithuania,2,161
+Madagascar,2,73
+Malawi,2,46
+Malaysia,2,128
+Mali,2,91
+Malta,2,86
+Mauritania,2,14
+Mauritius,2,64
+Mexico,2,195
+Mongolia,2,58
+Morocco,2,129
+Mozambique,2,89
+Myanmar,2,83
+Nepal,2,71
+Neth.Ant.Aru,2,45
+Netherlands,2,311
+Neutral Zone,2,2
+New Calednia,2,22
+New Zealand,2,195
+Nicaragua,2,60
+Niger,2,20
+Nigeria,2,27
+Norway,2,111
+Occ.Pal.Terr,2,6
+Oman,2,37
+Oth.Oceania,2,55
+Pakistan,2,114
+Panama,2,130
+Papua N.Guin,2,32
+Paraguay,2,100
+Peru,2,148
+Philippines,2,123
+Poland,2,325
+Portugal,2,245
+Qatar,2,37
+Rep Moldova,2,124
+Romania,2,217
+Russian Fed,2,139
+Rwanda,2,22
+Samoa,2,33
+Saudi Arabia,2,22
+Senegal,2,71
+Seychelles,2,16
+Sierra Leone,2,82
+Singapore,2,130
+Slovakia,2,247
+Slovenia,2,260
+Somalia,2,19
+South Africa,2,191
+Spain,2,365
+Sri Lanka,2,122
+St.Helena,2,13
+St.Kt-Nev-An,2,74
+St.Pierre Mq,2,7
+Sudan,2,36
+Suriname,2,27
+Sweden,2,226
+Switz.Liecht,2,269
+Syria,2,71
+TFYR Macedna,2,95
+Taiwan,2,225
+Tajikistan,2,64
+Tanzania,2,67
+Thailand,2,248
+Togo,2,32
+Trinidad Tbg,2,38
+Tunisia,2,141
+Turkey,2,254
+Turkmenistan,2,58
+UK,2,298
+US NES,2,56
+USA,2,350
+Uganda,2,35
+Ukraine,2,222
+Untd Arab Em,2,95
+Uruguay,2,187
+Uzbekistan,2,109
+Venezuela,2,66
+Viet Nam,2,129
+Yemen,2,19
+Yugoslavia,2,205
+Zambia,2,45
+Zimbabwe,2,110
+Afghanistan,3,75
+Afr.Other NS,3,10
+Africa N.NES,3,0
+Albania,3,141
+Algeria,3,21
+Angola,3,7
+Areas NES,3,199
+Argentina,3,184
+Armenia,3,100
+Asia NES,3,32
+Asia West NS,3,32
+Australia,3,173
+Austria,3,345
+Azerbaijan,3,85
+Bahamas,3,46
+Bahrain,3,78
+Bangladesh,3,58
+Barbados,3,118
+Belarus,3,80
+Belgium-Lux,3,344
+Belize,3,85
+Benin,3,57
+Bermuda,3,66
+Bolivia,3,98
+Bosnia Herzg,3,139
+Br.Antr.Terr,3,1
+Brazil,3,266
+Bulgaria,3,264
+Burkina Faso,3,62
+Burundi,3,28
+CACM NES,3,1
+Cambodia,3,47
+Cameroon,3,25
+Canada,3,259
+Cent.Afr.Rep,3,14
+Chad,3,8
+Chile,3,144
+China,3,267
+China FTZ,3,154
+China HK SAR,3,210
+China MC SAR,3,58
+Colombia,3,152
+Congo,3,21
+Costa Rica,3,101
+Cote Divoire,3,64
+Croatia,3,238
+Cuba,3,63
+Cyprus,3,154
+Czech Rep,3,358
+Dem.Rp.Congo,3,21
+Denmark,3,266
+Djibouti,3,34
+Dominican Rp,3,94
+EEC NES,3,21
+Ecuador,3,78
+Egypt,3,154
+El Salvador,3,90
+Eq.Guinea,3,11
+Estonia,3,158
+Ethiopia,3,34
+Eur.Other NE,3,13
+Falkland Is,3,22
+Fiji,3,74
+Finland,3,182
+Fr Ind O,3,15
+Fr.Guiana,3,1
+"France,Monac",3,387
+Gabon,3,36
+Gambia,3,53
+Georgia,3,142
+Germany,3,364
+Ghana,3,58
+Gibraltar,3,25
+Greece,3,256
+Greenland,3,21
+Guadeloupe,3,8
+Guatemala,3,88
+Guinea,3,25
+GuineaBissau,3,73
+Guyana,3,49
+Haiti,3,67
+Honduras,3,70
+Hungary,3,257
+Iceland,3,64
+India,3,260
+Indonesia,3,252
+Iran,3,38
+Iraq,3,3
+Ireland,3,134
+Israel,3,207
+Italy,3,352
+Jamaica,3,82
+Japan,3,228
+Jordan,3,148
+Kazakhstan,3,74
+Kenya,3,93
+Kiribati,3,30
+Korea D P Rp,3,200
+Korea Rep.,3,216
+Kuwait,3,16
+Kyrgyzstan,3,125
+LAIA NES,3,0
+Lao P.Dem.R,3,53
+Latvia,3,117
+Lebanon,3,134
+Liberia,3,12
+Libya,3,16
+Lithuania,3,176
+Madagascar,3,74
+Malawi,3,46
+Malaysia,3,135
+Mali,3,100
+Malta,3,94
+Mauritania,3,14
+Mauritius,3,66
+Mexico,3,208
+Mongolia,3,58
+Morocco,3,131
+Mozambique,3,106
+Myanmar,3,83
+Nepal,3,72
+Neth.Ant.Aru,3,55
+Netherlands,3,322
+Neutral Zone,3,2
+New Calednia,3,22
+New Zealand,3,206
+Nicaragua,3,61
+Niger,3,20
+Nigeria,3,27
+Norway,3,122
+Occ.Pal.Terr,3,6
+Oman,3,39
+Oth.Oceania,3,67
+Pakistan,3,114
+Panama,3,132
+Papua N.Guin,3,32
+Paraguay,3,101
+Peru,3,149
+Philippines,3,125
+Poland,3,328
+Portugal,3,249
+Qatar,3,38
+Rep Moldova,3,132
+Romania,3,232
+Russian Fed,3,154
+Rwanda,3,22
+Samoa,3,34
+Saudi Arabia,3,22
+Senegal,3,71
+Seychelles,3,16
+Sierra Leone,3,97
+Singapore,3,144
+Slovakia,3,251
+Slovenia,3,263
+Somalia,3,19
+South Africa,3,196
+Spain,3,368
+Sri Lanka,3,130
+St.Helena,3,13
+St.Kt-Nev-An,3,76
+St.Pierre Mq,3,7
+Sudan,3,36
+Suriname,3,27
+Sweden,3,227
+Switz.Liecht,3,272
+Syria,3,73
+TFYR Macedna,3,102
+Taiwan,3,233
+Tajikistan,3,65
+Tanzania,3,67
+Thailand,3,265
+Togo,3,36
+Trinidad Tbg,3,39
+Tunisia,3,141
+Turkey,3,264
+Turkmenistan,3,59
+UK,3,304
+US NES,3,57
+USA,3,352
+Uganda,3,35
+Ukraine,3,238
+Untd Arab Em,3,97
+Uruguay,3,201
+Uzbekistan,3,117
+Venezuela,3,67
+Viet Nam,3,129
+Yemen,3,19
+Yugoslavia,3,214
+Zambia,3,45
+Zimbabwe,3,114
+Afghanistan,4,78
+Afr.Other NS,4,10
+Africa N.NES,4,0
+Albania,4,153
+Algeria,4,21
+Angola,4,7
+Areas NES,4,203
+Argentina,4,185
+Armenia,4,108
+Asia NES,4,32
+Asia West NS,4,44
+Australia,4,176
+Austria,4,348
+Azerbaijan,4,86
+Bahamas,4,47
+Bahrain,4,78
+Bangladesh,4,58
+Barbados,4,130
+Belarus,4,80
+Belgium-Lux,4,345
+Belize,4,93
+Benin,4,68
+Bermuda,4,66
+Bolivia,4,98
+Bosnia Herzg,4,150
+Br.Antr.Terr,4,1
+Brazil,4,275
+Bulgaria,4,270
+Burkina Faso,4,73
+Burundi,4,39
+CACM NES,4,1
+Cambodia,4,47
+Cameroon,4,25
+Canada,4,263
+Cent.Afr.Rep,4,14
+Chad,4,8
+Chile,4,148
+China,4,267
+China FTZ,4,169
+China HK SAR,4,219
+China MC SAR,4,58
+Colombia,4,160
+Congo,4,21
+Costa Rica,4,108
+Cote Divoire,4,66
+Croatia,4,242
+Cuba,4,63
+Cyprus,4,165
+Czech Rep,4,359
+Dem.Rp.Congo,4,21
+Denmark,4,274
+Djibouti,4,40
+Dominican Rp,4,95
+EEC NES,4,22
+Ecuador,4,78
+Egypt,4,154
+El Salvador,4,105
+Eq.Guinea,4,11
+Estonia,4,165
+Ethiopia,4,34
+Eur.Other NE,4,15
+Falkland Is,4,23
+Fiji,4,79
+Finland,4,188
+Fr Ind O,4,15
+Fr.Guiana,4,1
+"France,Monac",4,391
+Gabon,4,44
+Gambia,4,63
+Georgia,4,151
+Germany,4,364
+Ghana,4,58
+Gibraltar,4,25
+Greece,4,262
+Greenland,4,21
+Guadeloupe,4,8
+Guatemala,4,92
+Guinea,4,25
+GuineaBissau,4,82
+Guyana,4,49
+Haiti,4,69
+Honduras,4,70
+Hungary,4,261
+Iceland,4,72
+India,4,267
+Indonesia,4,258
+Iran,4,38
+Iraq,4,3
+Ireland,4,142
+Israel,4,212
+Italy,4,352
+Jamaica,4,91
+Japan,4,232
+Jordan,4,158
+Kazakhstan,4,74
+Kenya,4,93
+Kiribati,4,30
+Korea D P Rp,4,213
+Korea Rep.,4,226
+Kuwait,4,16
+Kyrgyzstan,4,134
+LAIA NES,4,0
+Lao P.Dem.R,4,53
+Latvia,4,120
+Lebanon,4,144
+Liberia,4,12
+Libya,4,16
+Lithuania,4,190
+Madagascar,4,74
+Malawi,4,46
+Malaysia,4,142
+Mali,4,107
+Malta,4,101
+Mauritania,4,14
+Mauritius,4,68
+Mexico,4,216
+Mongolia,4,58
+Morocco,4,133
+Mozambique,4,117
+Myanmar,4,83
+Nepal,4,72
+Neth.Ant.Aru,4,70
+Netherlands,4,325
+Neutral Zone,4,2
+New Calednia,4,22
+New Zealand,4,211
+Nicaragua,4,61
+Niger,4,20
+Nigeria,4,27
+Norway,4,133
+Occ.Pal.Terr,4,6
+Oman,4,40
+Oth.Oceania,4,77
+Pakistan,4,114
+Panama,4,132
+Papua N.Guin,4,32
+Paraguay,4,101
+Peru,4,149
+Philippines,4,125
+Poland,4,330
+Portugal,4,254
+Qatar,4,38
+Rep Moldova,4,145
+Romania,4,242
+Russian Fed,4,165
+Rwanda,4,22
+Samoa,4,34
+Saudi Arabia,4,22
+Senegal,4,71
+Seychelles,4,16
+Sierra Leone,4,103
+Singapore,4,151
+Slovakia,4,254
+Slovenia,4,265
+Somalia,4,19
+South Africa,4,205
+Spain,4,369
+Sri Lanka,4,137
+St.Helena,4,13
+St.Kt-Nev-An,4,76
+St.Pierre Mq,4,7
+Sudan,4,36
+Suriname,4,27
+Sweden,4,228
+Switz.Liecht,4,272
+Syria,4,75
+TFYR Macedna,4,104
+Taiwan,4,238
+Tajikistan,4,65
+Tanzania,4,67
+Thailand,4,276
+Togo,4,45
+Trinidad Tbg,4,40
+Tunisia,4,141
+Turkey,4,269
+Turkmenistan,4,59
+UK,4,310
+US NES,4,61
+USA,4,352
+Uganda,4,35
+Ukraine,4,247
+Untd Arab Em,4,99
+Uruguay,4,206
+Uzbekistan,4,127
+Venezuela,4,67
+Viet Nam,4,129
+Yemen,4,19
+Yugoslavia,4,218
+Zambia,4,45
+Zimbabwe,4,117
+Afghanistan,5,83
+Afr.Other NS,5,10
+Africa N.NES,5,0
+Albania,5,159
+Algeria,5,21
+Angola,5,7
+Areas NES,5,207
+Argentina,5,186
+Armenia,5,115
+Asia NES,5,32
+Asia West NS,5,51
+Australia,5,178
+Austria,5,348
+Azerbaijan,5,87
+Bahamas,5,51
+Bahrain,5,78
+Bangladesh,5,58
+Barbados,5,135
+Belarus,5,80
+Belgium-Lux,5,345
+Belize,5,104
+Benin,5,73
+Bermuda,5,66
+Bolivia,5,98
+Bosnia Herzg,5,157
+Br.Antr.Terr,5,1
+Brazil,5,285
+Bulgaria,5,274
+Burkina Faso,5,78
+Burundi,5,49
+CACM NES,5,1
+Cambodia,5,47
+Cameroon,5,25
+Canada,5,270
+Cent.Afr.Rep,5,14
+Chad,5,8
+Chile,5,153
+China,5,267
+China FTZ,5,181
+China HK SAR,5,226
+China MC SAR,5,58
+Colombia,5,170
+Congo,5,21
+Costa Rica,5,116
+Cote Divoire,5,66
+Croatia,5,242
+Cuba,5,63
+Cyprus,5,171
+Czech Rep,5,359
+Dem.Rp.Congo,5,21
+Denmark,5,277
+Djibouti,5,46
+Dominican Rp,5,97
+EEC NES,5,24
+Ecuador,5,78
+Egypt,5,154
+El Salvador,5,113
+Eq.Guinea,5,11
+Estonia,5,174
+Ethiopia,5,34
+Eur.Other NE,5,18
+Falkland Is,5,25
+Fiji,5,81
+Finland,5,188
+Fr Ind O,5,15
+Fr.Guiana,5,1
+"France,Monac",5,392
+Gabon,5,51
+Gambia,5,72
+Georgia,5,159
+Germany,5,364
+Ghana,5,58
+Gibraltar,5,25
+Greece,5,268
+Greenland,5,21
+Guadeloupe,5,8
+Guatemala,5,93
+Guinea,5,25
+GuineaBissau,5,89
+Guyana,5,49
+Haiti,5,70
+Honduras,5,70
+Hungary,5,264
+Iceland,5,78
+India,5,270
+Indonesia,5,265
+Iran,5,38
+Iraq,5,3
+Ireland,5,152
+Israel,5,216
+Italy,5,352
+Jamaica,5,97
+Japan,5,236
+Jordan,5,165
+Kazakhstan,5,74
+Kenya,5,93
+Kiribati,5,30
+Korea D P Rp,5,222
+Korea Rep.,5,237
+Kuwait,5,16
+Kyrgyzstan,5,137
+LAIA NES,5,0
+Lao P.Dem.R,5,53
+Latvia,5,123
+Lebanon,5,149
+Liberia,5,12
+Libya,5,16
+Lithuania,5,197
+Madagascar,5,74
+Malawi,5,46
+Malaysia,5,148
+Mali,5,110
+Malta,5,110
+Mauritania,5,14
+Mauritius,5,68
+Mexico,5,225
+Mongolia,5,58
+Morocco,5,136
+Mozambique,5,129
+Myanmar,5,83
+Nepal,5,72
+Neth.Ant.Aru,5,77
+Netherlands,5,327
+Neutral Zone,5,2
+New Calednia,5,22
+New Zealand,5,218
+Nicaragua,5,61
+Niger,5,20
+Nigeria,5,27
+Norway,5,139
+Occ.Pal.Terr,5,6
+Oman,5,40
+Oth.Oceania,5,82
+Pakistan,5,114
+Panama,5,132
+Papua N.Guin,5,32
+Paraguay,5,101
+Peru,5,149
+Philippines,5,125
+Poland,5,331
+Portugal,5,265
+Qatar,5,38
+Rep Moldova,5,155
+Romania,5,244
+Russian Fed,5,168
+Rwanda,5,22
+Samoa,5,34
+Saudi Arabia,5,22
+Senegal,5,71
+Seychelles,5,16
+Sierra Leone,5,111
+Singapore,5,155
+Slovakia,5,255
+Slovenia,5,266
+Somalia,5,19
+South Africa,5,211
+Spain,5,369
+Sri Lanka,5,145
+St.Helena,5,13
+St.Kt-Nev-An,5,76
+St.Pierre Mq,5,7
+Sudan,5,36
+Suriname,5,27
+Sweden,5,228
+Switz.Liecht,5,272
+Syria,5,75
+TFYR Macedna,5,108
+Taiwan,5,240
+Tajikistan,5,65
+Tanzania,5,67
+Thailand,5,282
+Togo,5,54
+Trinidad Tbg,5,44
+Tunisia,5,141
+Turkey,5,274
+Turkmenistan,5,59
+UK,5,312
+US NES,5,62
+USA,5,352
+Uganda,5,35
+Ukraine,5,253
+Untd Arab Em,5,99
+Uruguay,5,208
+Uzbekistan,5,132
+Venezuela,5,67
+Viet Nam,5,129
+Yemen,5,19
+Yugoslavia,5,221
+Zambia,5,45
+Zimbabwe,5,120
+Afghanistan,6,88
+Afr.Other NS,6,10
+Africa N.NES,6,0
+Albania,6,160
+Algeria,6,21
+Angola,6,7
+Areas NES,6,209
+Argentina,6,190
+Armenia,6,119
+Asia NES,6,32
+Asia West NS,6,54
+Australia,6,180
+Austria,6,348
+Azerbaijan,6,91
+Bahamas,6,54
+Bahrain,6,78
+Bangladesh,6,58
+Barbados,6,137
+Belarus,6,80
+Belgium-Lux,6,345
+Belize,6,108
+Benin,6,80
+Bermuda,6,66
+Bolivia,6,98
+Bosnia Herzg,6,159
+Br.Antr.Terr,6,1
+Brazil,6,288
+Bulgaria,6,275
+Burkina Faso,6,81
+Burundi,6,55
+CACM NES,6,1
+Cambodia,6,47
+Cameroon,6,25
+Canada,6,273
+Cent.Afr.Rep,6,14
+Chad,6,8
+Chile,6,156
+China,6,267
+China FTZ,6,187
+China HK SAR,6,230
+China MC SAR,6,58
+Colombia,6,176
+Congo,6,21
+Costa Rica,6,123
+Cote Divoire,6,66
+Croatia,6,242
+Cuba,6,63
+Cyprus,6,176
+Czech Rep,6,359
+Dem.Rp.Congo,6,21
+Denmark,6,279
+Djibouti,6,53
+Dominican Rp,6,99
+EEC NES,6,27
+Ecuador,6,78
+Egypt,6,154
+El Salvador,6,122
+Eq.Guinea,6,11
+Estonia,6,183
+Ethiopia,6,34
+Eur.Other NE,6,18
+Falkland Is,6,27
+Fiji,6,85
+Finland,6,188
+Fr Ind O,6,15
+Fr.Guiana,6,1
+"France,Monac",6,392
+Gabon,6,55
+Gambia,6,78
+Georgia,6,162
+Germany,6,364
+Ghana,6,58
+Gibraltar,6,25
+Greece,6,270
+Greenland,6,21
+Guadeloupe,6,8
+Guatemala,6,93
+Guinea,6,25
+GuineaBissau,6,97
+Guyana,6,49
+Haiti,6,70
+Honduras,6,70
+Hungary,6,265
+Iceland,6,89
+India,6,271
+Indonesia,6,269
+Iran,6,38
+Iraq,6,3
+Ireland,6,165
+Israel,6,218
+Italy,6,352
+Jamaica,6,108
+Japan,6,237
+Jordan,6,174
+Kazakhstan,6,74
+Kenya,6,93
+Kiribati,6,30
+Korea D P Rp,6,226
+Korea Rep.,6,244
+Kuwait,6,16
+Kyrgyzstan,6,142
+LAIA NES,6,0
+Lao P.Dem.R,6,53
+Latvia,6,123
+Lebanon,6,155
+Liberia,6,12
+Libya,6,16
+Lithuania,6,204
+Madagascar,6,74
+Malawi,6,46
+Malaysia,6,154
+Mali,6,116
+Malta,6,114
+Mauritania,6,14
+Mauritius,6,68
+Mexico,6,231
+Mongolia,6,58
+Morocco,6,140
+Mozambique,6,133
+Myanmar,6,83
+Nepal,6,72
+Neth.Ant.Aru,6,79
+Netherlands,6,327
+Neutral Zone,6,2
+New Calednia,6,22
+New Zealand,6,223
+Nicaragua,6,61
+Niger,6,20
+Nigeria,6,27
+Norway,6,145
+Occ.Pal.Terr,6,6
+Oman,6,40
+Oth.Oceania,6,84
+Pakistan,6,114
+Panama,6,132
+Papua N.Guin,6,32
+Paraguay,6,101
+Peru,6,149
+Philippines,6,125
+Poland,6,331
+Portugal,6,270
+Qatar,6,38
+Rep Moldova,6,160
+Romania,6,244
+Russian Fed,6,169
+Rwanda,6,22
+Samoa,6,34
+Saudi Arabia,6,22
+Senegal,6,71
+Seychelles,6,16
+Sierra Leone,6,116
+Singapore,6,157
+Slovakia,6,255
+Slovenia,6,266
+Somalia,6,19
+South Africa,6,219
+Spain,6,369
+Sri Lanka,6,152
+St.Helena,6,13
+St.Kt-Nev-An,6,76
+St.Pierre Mq,6,7
+Sudan,6,36
+Suriname,6,27
+Sweden,6,228
+Switz.Liecht,6,272
+Syria,6,75
+TFYR Macedna,6,111
+Taiwan,6,241
+Tajikistan,6,65
+Tanzania,6,67
+Thailand,6,288
+Togo,6,59
+Trinidad Tbg,6,47
+Tunisia,6,141
+Turkey,6,281
+Turkmenistan,6,59
+UK,6,312
+US NES,6,62
+USA,6,352
+Uganda,6,35
+Ukraine,6,256
+Untd Arab Em,6,99
+Uruguay,6,208
+Uzbekistan,6,139
+Venezuela,6,67
+Viet Nam,6,129
+Yemen,6,19
+Yugoslavia,6,224
+Zambia,6,45
+Zimbabwe,6,120
+Afghanistan,7,99
+Afr.Other NS,7,10
+Africa N.NES,7,0
+Albania,7,160
+Algeria,7,21
+Angola,7,7
+Areas NES,7,209
+Argentina,7,193
+Armenia,7,122
+Asia NES,7,32
+Asia West NS,7,56
+Australia,7,181
+Austria,7,348
+Azerbaijan,7,94
+Bahamas,7,59
+Bahrain,7,78
+Bangladesh,7,58
+Barbados,7,138
+Belarus,7,80
+Belgium-Lux,7,345
+Belize,7,113
+Benin,7,83
+Bermuda,7,66
+Bolivia,7,98
+Bosnia Herzg,7,160
+Br.Antr.Terr,7,1
+Brazil,7,289
+Bulgaria,7,275
+Burkina Faso,7,83
+Burundi,7,60
+CACM NES,7,1
+Cambodia,7,47
+Cameroon,7,25
+Canada,7,275
+Cent.Afr.Rep,7,14
+Chad,7,8
+Chile,7,158
+China,7,267
+China FTZ,7,192
+China HK SAR,7,233
+China MC SAR,7,58
+Colombia,7,181
+Congo,7,21
+Costa Rica,7,127
+Cote Divoire,7,66
+Croatia,7,242
+Cuba,7,63
+Cyprus,7,179
+Czech Rep,7,359
+Dem.Rp.Congo,7,21
+Denmark,7,279
+Djibouti,7,57
+Dominican Rp,7,100
+EEC NES,7,27
+Ecuador,7,78
+Egypt,7,154
+El Salvador,7,127
+Eq.Guinea,7,11
+Estonia,7,186
+Ethiopia,7,34
+Eur.Other NE,7,18
+Falkland Is,7,28
+Fiji,7,88
+Finland,7,188
+Fr Ind O,7,15
+Fr.Guiana,7,1
+"France,Monac",7,392
+Gabon,7,58
+Gambia,7,85
+Georgia,7,163
+Germany,7,364
+Ghana,7,58
+Gibraltar,7,25
+Greece,7,270
+Greenland,7,21
+Guadeloupe,7,8
+Guatemala,7,93
+Guinea,7,25
+GuineaBissau,7,100
+Guyana,7,49
+Haiti,7,70
+Honduras,7,70
+Hungary,7,267
+Iceland,7,95
+India,7,272
+Indonesia,7,271
+Iran,7,38
+Iraq,7,3
+Ireland,7,172
+Israel,7,218
+Italy,7,352
+Jamaica,7,114
+Japan,7,239
+Jordan,7,178
+Kazakhstan,7,74
+Kenya,7,93
+Kiribati,7,30
+Korea D P Rp,7,227
+Korea Rep.,7,249
+Kuwait,7,16
+Kyrgyzstan,7,148
+LAIA NES,7,0
+Lao P.Dem.R,7,53
+Latvia,7,123
+Lebanon,7,160
+Liberia,7,12
+Libya,7,16
+Lithuania,7,207
+Madagascar,7,74
+Malawi,7,46
+Malaysia,7,161
+Mali,7,119
+Malta,7,117
+Mauritania,7,14
+Mauritius,7,68
+Mexico,7,235
+Mongolia,7,58
+Morocco,7,143
+Mozambique,7,136
+Myanmar,7,83
+Nepal,7,72
+Neth.Ant.Aru,7,80
+Netherlands,7,327
+Neutral Zone,7,2
+New Calednia,7,22
+New Zealand,7,226
+Nicaragua,7,61
+Niger,7,20
+Nigeria,7,27
+Norway,7,148
+Occ.Pal.Terr,7,6
+Oman,7,40
+Oth.Oceania,7,84
+Pakistan,7,114
+Panama,7,132
+Papua N.Guin,7,32
+Paraguay,7,101
+Peru,7,149
+Philippines,7,125
+Poland,7,331
+Portugal,7,272
+Qatar,7,38
+Rep Moldova,7,160
+Romania,7,244
+Russian Fed,7,169
+Rwanda,7,22
+Samoa,7,34
+Saudi Arabia,7,22
+Senegal,7,71
+Seychelles,7,16
+Sierra Leone,7,119
+Singapore,7,157
+Slovakia,7,255
+Slovenia,7,266
+Somalia,7,19
+South Africa,7,222
+Spain,7,369
+Sri Lanka,7,156
+St.Helena,7,13
+St.Kt-Nev-An,7,76
+St.Pierre Mq,7,7
+Sudan,7,36
+Suriname,7,27
+Sweden,7,228
+Switz.Liecht,7,272
+Syria,7,75
+TFYR Macedna,7,111
+Taiwan,7,242
+Tajikistan,7,65
+Tanzania,7,67
+Thailand,7,288
+Togo,7,65
+Trinidad Tbg,7,52
+Tunisia,7,141
+Turkey,7,286
+Turkmenistan,7,59
+UK,7,312
+US NES,7,62
+USA,7,352
+Uganda,7,35
+Ukraine,7,256
+Untd Arab Em,7,99
+Uruguay,7,208
+Uzbekistan,7,142
+Venezuela,7,67
+Viet Nam,7,129
+Yemen,7,19
+Yugoslavia,7,224
+Zambia,7,45
+Zimbabwe,7,120
+Afghanistan,8,105
+Afr.Other NS,8,10
+Africa N.NES,8,0
+Albania,8,160
+Algeria,8,21
+Angola,8,7
+Areas NES,8,209
+Argentina,8,200
+Armenia,8,125
+Asia NES,8,32
+Asia West NS,8,58
+Australia,8,181
+Austria,8,348
+Azerbaijan,8,101
+Bahamas,8,64
+Bahrain,8,78
+Bangladesh,8,58
+Barbados,8,140
+Belarus,8,80
+Belgium-Lux,8,345
+Belize,8,116
+Benin,8,85
+Bermuda,8,66
+Bolivia,8,98
+Bosnia Herzg,8,162
+Br.Antr.Terr,8,1
+Brazil,8,289
+Bulgaria,8,275
+Burkina Faso,8,85
+Burundi,8,63
+CACM NES,8,1
+Cambodia,8,47
+Cameroon,8,25
+Canada,8,276
+Cent.Afr.Rep,8,14
+Chad,8,8
+Chile,8,159
+China,8,267
+China FTZ,8,195
+China HK SAR,8,236
+China MC SAR,8,58
+Colombia,8,184
+Congo,8,21
+Costa Rica,8,130
+Cote Divoire,8,66
+Croatia,8,242
+Cuba,8,63
+Cyprus,8,181
+Czech Rep,8,359
+Dem.Rp.Congo,8,21
+Denmark,8,279
+Djibouti,8,60
+Dominican Rp,8,100
+EEC NES,8,27
+Ecuador,8,78
+Egypt,8,154
+El Salvador,8,129
+Eq.Guinea,8,11
+Estonia,8,187
+Ethiopia,8,34
+Eur.Other NE,8,18
+Falkland Is,8,28
+Fiji,8,95
+Finland,8,188
+Fr Ind O,8,15
+Fr.Guiana,8,1
+"France,Monac",8,392
+Gabon,8,61
+Gambia,8,89
+Georgia,8,164
+Germany,8,364
+Ghana,8,58
+Gibraltar,8,25
+Greece,8,270
+Greenland,8,21
+Guadeloupe,8,8
+Guatemala,8,93
+Guinea,8,25
+GuineaBissau,8,100
+Guyana,8,49
+Haiti,8,70
+Honduras,8,70
+Hungary,8,267
+Iceland,8,97
+India,8,274
+Indonesia,8,272
+Iran,8,38
+Iraq,8,3
+Ireland,8,174
+Israel,8,218
+Italy,8,352
+Jamaica,8,116
+Japan,8,239
+Jordan,8,180
+Kazakhstan,8,74
+Kenya,8,93
+Kiribati,8,30
+Korea D P Rp,8,229
+Korea Rep.,8,252
+Kuwait,8,16
+Kyrgyzstan,8,159
+LAIA NES,8,0
+Lao P.Dem.R,8,53
+Latvia,8,123
+Lebanon,8,162
+Liberia,8,12
+Libya,8,16
+Lithuania,8,209
+Madagascar,8,74
+Malawi,8,46
+Malaysia,8,165
+Mali,8,121
+Malta,8,120
+Mauritania,8,14
+Mauritius,8,68
+Mexico,8,238
+Mongolia,8,58
+Morocco,8,150
+Mozambique,8,139
+Myanmar,8,83
+Nepal,8,72
+Neth.Ant.Aru,8,81
+Netherlands,8,327
+Neutral Zone,8,2
+New Calednia,8,22
+New Zealand,8,227
+Nicaragua,8,61
+Niger,8,20
+Nigeria,8,27
+Norway,8,150
+Occ.Pal.Terr,8,6
+Oman,8,40
+Oth.Oceania,8,84
+Pakistan,8,114
+Panama,8,132
+Papua N.Guin,8,32
+Paraguay,8,101
+Peru,8,149
+Philippines,8,125
+Poland,8,331
+Portugal,8,273
+Qatar,8,38
+Rep Moldova,8,160
+Romania,8,244
+Russian Fed,8,169
+Rwanda,8,22
+Samoa,8,34
+Saudi Arabia,8,22
+Senegal,8,71
+Seychelles,8,16
+Sierra Leone,8,120
+Singapore,8,157
+Slovakia,8,255
+Slovenia,8,266
+Somalia,8,19
+South Africa,8,222
+Spain,8,369
+Sri Lanka,8,159
+St.Helena,8,13
+St.Kt-Nev-An,8,76
+St.Pierre Mq,8,7
+Sudan,8,36
+Suriname,8,27
+Sweden,8,228
+Switz.Liecht,8,272
+Syria,8,75
+TFYR Macedna,8,111
+Taiwan,8,244
+Tajikistan,8,65
+Tanzania,8,67
+Thailand,8,288
+Togo,8,70
+Trinidad Tbg,8,57
+Tunisia,8,141
+Turkey,8,288
+Turkmenistan,8,59
+UK,8,312
+US NES,8,62
+USA,8,352
+Uganda,8,35
+Ukraine,8,256
+Untd Arab Em,8,99
+Uruguay,8,208
+Uzbekistan,8,144
+Venezuela,8,67
+Viet Nam,8,129
+Yemen,8,19
+Yugoslavia,8,224
+Zambia,8,45
+Zimbabwe,8,120
+Afghanistan,9,107
+Afr.Other NS,9,10
+Africa N.NES,9,0
+Albania,9,160
+Algeria,9,21
+Angola,9,7
+Areas NES,9,209
+Argentina,9,209
+Armenia,9,125
+Asia NES,9,32
+Asia West NS,9,58
+Australia,9,181
+Austria,9,348
+Azerbaijan,9,110
+Bahamas,9,75
+Bahrain,9,78
+Bangladesh,9,58
+Barbados,9,140
+Belarus,9,80
+Belgium-Lux,9,345
+Belize,9,118
+Benin,9,86
+Bermuda,9,66
+Bolivia,9,98
+Bosnia Herzg,9,162
+Br.Antr.Terr,9,1
+Brazil,9,289
+Bulgaria,9,275
+Burkina Faso,9,85
+Burundi,9,65
+CACM NES,9,1
+Cambodia,9,47
+Cameroon,9,25
+Canada,9,276
+Cent.Afr.Rep,9,14
+Chad,9,8
+Chile,9,159
+China,9,267
+China FTZ,9,197
+China HK SAR,9,236
+China MC SAR,9,58
+Colombia,9,186
+Congo,9,21
+Costa Rica,9,133
+Cote Divoire,9,66
+Croatia,9,242
+Cuba,9,63
+Cyprus,9,182
+Czech Rep,9,359
+Dem.Rp.Congo,9,21
+Denmark,9,279
+Djibouti,9,63
+Dominican Rp,9,100
+EEC NES,9,27
+Ecuador,9,78
+Egypt,9,154
+El Salvador,9,130
+Eq.Guinea,9,11
+Estonia,9,187
+Ethiopia,9,34
+Eur.Other NE,9,18
+Falkland Is,9,28
+Fiji,9,104
+Finland,9,188
+Fr Ind O,9,15
+Fr.Guiana,9,1
+"France,Monac",9,392
+Gabon,9,61
+Gambia,9,92
+Georgia,9,166
+Germany,9,364
+Ghana,9,58
+Gibraltar,9,25
+Greece,9,270
+Greenland,9,21
+Guadeloupe,9,8
+Guatemala,9,93
+Guinea,9,25
+GuineaBissau,9,100
+Guyana,9,49
+Haiti,9,70
+Honduras,9,70
+Hungary,9,267
+Iceland,9,98
+India,9,274
+Indonesia,9,272
+Iran,9,38
+Iraq,9,3
+Ireland,9,175
+Israel,9,218
+Italy,9,352
+Jamaica,9,117
+Japan,9,239
+Jordan,9,181
+Kazakhstan,9,74
+Kenya,9,93
+Kiribati,9,30
+Korea D P Rp,9,229
+Korea Rep.,9,254
+Kuwait,9,16
+Kyrgyzstan,9,165
+LAIA NES,9,0
+Lao P.Dem.R,9,53
+Latvia,9,123
+Lebanon,9,163
+Liberia,9,12
+Libya,9,16
+Lithuania,9,210
+Madagascar,9,74
+Malawi,9,46
+Malaysia,9,168
+Mali,9,122
+Malta,9,120
+Mauritania,9,14
+Mauritius,9,68
+Mexico,9,238
+Mongolia,9,58
+Morocco,9,159
+Mozambique,9,139
+Myanmar,9,83
+Nepal,9,72
+Neth.Ant.Aru,9,83
+Netherlands,9,327
+Neutral Zone,9,2
+New Calednia,9,22
+New Zealand,9,227
+Nicaragua,9,61
+Niger,9,20
+Nigeria,9,27
+Norway,9,151
+Occ.Pal.Terr,9,6
+Oman,9,40
+Oth.Oceania,9,84
+Pakistan,9,114
+Panama,9,132
+Papua N.Guin,9,32
+Paraguay,9,101
+Peru,9,149
+Philippines,9,125
+Poland,9,331
+Portugal,9,273
+Qatar,9,38
+Rep Moldova,9,160
+Romania,9,244
+Russian Fed,9,169
+Rwanda,9,22
+Samoa,9,34
+Saudi Arabia,9,22
+Senegal,9,71
+Seychelles,9,16
+Sierra Leone,9,120
+Singapore,9,157
+Slovakia,9,255
+Slovenia,9,266
+Somalia,9,19
+South Africa,9,222
+Spain,9,369
+Sri Lanka,9,162
+St.Helena,9,13
+St.Kt-Nev-An,9,76
+St.Pierre Mq,9,7
+Sudan,9,36
+Suriname,9,27
+Sweden,9,228
+Switz.Liecht,9,272
+Syria,9,75
+TFYR Macedna,9,111
+Taiwan,9,244
+Tajikistan,9,65
+Tanzania,9,67
+Thailand,9,288
+Togo,9,72
+Trinidad Tbg,9,68
+Tunisia,9,141
+Turkey,9,289
+Turkmenistan,9,59
+UK,9,312
+US NES,9,62
+USA,9,352
+Uganda,9,35
+Ukraine,9,256
+Untd Arab Em,9,99
+Uruguay,9,208
+Uzbekistan,9,145
+Venezuela,9,67
+Viet Nam,9,129
+Yemen,9,19
+Yugoslavia,9,224
+Zambia,9,45
+Zimbabwe,9,120
+Afghanistan,10,108
+Afr.Other NS,10,10
+Africa N.NES,10,0
+Albania,10,160
+Algeria,10,21
+Angola,10,7
+Areas NES,10,209
+Argentina,10,213
+Armenia,10,125
+Asia NES,10,32
+Asia West NS,10,58
+Australia,10,181
+Austria,10,348
+Azerbaijan,10,114
+Bahamas,10,81
+Bahrain,10,78
+Bangladesh,10,58
+Barbados,10,140
+Belarus,10,80
+Belgium-Lux,10,345
+Belize,10,119
+Benin,10,86
+Bermuda,10,66
+Bolivia,10,98
+Bosnia Herzg,10,162
+Br.Antr.Terr,10,1
+Brazil,10,289
+Bulgaria,10,275
+Burkina Faso,10,85
+Burundi,10,66
+CACM NES,10,1
+Cambodia,10,47
+Cameroon,10,25
+Canada,10,276
+Cent.Afr.Rep,10,14
+Chad,10,8
+Chile,10,159
+China,10,267
+China FTZ,10,198
+China HK SAR,10,236
+China MC SAR,10,58
+Colombia,10,187
+Congo,10,21
+Costa Rica,10,133
+Cote Divoire,10,66
+Croatia,10,242
+Cuba,10,63
+Cyprus,10,182
+Czech Rep,10,359
+Dem.Rp.Congo,10,21
+Denmark,10,279
+Djibouti,10,63
+Dominican Rp,10,100
+EEC NES,10,27
+Ecuador,10,78
+Egypt,10,154
+El Salvador,10,130
+Eq.Guinea,10,11
+Estonia,10,187
+Ethiopia,10,34
+Eur.Other NE,10,18
+Falkland Is,10,28
+Fiji,10,108
+Finland,10,188
+Fr Ind O,10,15
+Fr.Guiana,10,1
+"France,Monac",10,392
+Gabon,10,61
+Gambia,10,95
+Georgia,10,166
+Germany,10,364
+Ghana,10,58
+Gibraltar,10,25
+Greece,10,270
+Greenland,10,21
+Guadeloupe,10,8
+Guatemala,10,93
+Guinea,10,25
+GuineaBissau,10,100
+Guyana,10,49
+Haiti,10,70
+Honduras,10,70
+Hungary,10,267
+Iceland,10,99
+India,10,274
+Indonesia,10,272
+Iran,10,38
+Iraq,10,3
+Ireland,10,176
+Israel,10,218
+Italy,10,352
+Jamaica,10,118
+Japan,10,239
+Jordan,10,181
+Kazakhstan,10,74
+Kenya,10,93
+Kiribati,10,30
+Korea D P Rp,10,229
+Korea Rep.,10,255
+Kuwait,10,16
+Kyrgyzstan,10,167
+LAIA NES,10,0
+Lao P.Dem.R,10,53
+Latvia,10,123
+Lebanon,10,163
+Liberia,10,12
+Libya,10,16
+Lithuania,10,210
+Madagascar,10,74
+Malawi,10,46
+Malaysia,10,171
+Mali,10,122
+Malta,10,120
+Mauritania,10,14
+Mauritius,10,68
+Mexico,10,238
+Mongolia,10,58
+Morocco,10,163
+Mozambique,10,139
+Myanmar,10,83
+Nepal,10,72
+Neth.Ant.Aru,10,83
+Netherlands,10,327
+Neutral Zone,10,2
+New Calednia,10,22
+New Zealand,10,227
+Nicaragua,10,61
+Niger,10,20
+Nigeria,10,27
+Norway,10,151
+Occ.Pal.Terr,10,6
+Oman,10,40
+Oth.Oceania,10,84
+Pakistan,10,114
+Panama,10,132
+Papua N.Guin,10,32
+Paraguay,10,101
+Peru,10,149
+Philippines,10,125
+Poland,10,331
+Portugal,10,273
+Qatar,10,38
+Rep Moldova,10,160
+Romania,10,244
+Russian Fed,10,169
+Rwanda,10,22
+Samoa,10,34
+Saudi Arabia,10,22
+Senegal,10,71
+Seychelles,10,16
+Sierra Leone,10,120
+Singapore,10,157
+Slovakia,10,255
+Slovenia,10,266
+Somalia,10,19
+South Africa,10,222
+Spain,10,369
+Sri Lanka,10,162
+St.Helena,10,13
+St.Kt-Nev-An,10,76
+St.Pierre Mq,10,7
+Sudan,10,36
+Suriname,10,27
+Sweden,10,228
+Switz.Liecht,10,272
+Syria,10,75
+TFYR Macedna,10,111
+Taiwan,10,244
+Tajikistan,10,65
+Tanzania,10,67
+Thailand,10,288
+Togo,10,73
+Trinidad Tbg,10,74
+Tunisia,10,141
+Turkey,10,289
+Turkmenistan,10,59
+UK,10,312
+US NES,10,62
+USA,10,352
+Uganda,10,35
+Ukraine,10,256
+Untd Arab Em,10,99
+Uruguay,10,208
+Uzbekistan,10,145
+Venezuela,10,67
+Viet Nam,10,129
+Yemen,10,19
+Yugoslavia,10,224
+Zambia,10,45
+Zimbabwe,10,120
+Afghanistan,11,109
+Afr.Other NS,11,10
+Africa N.NES,11,0
+Albania,11,160
+Algeria,11,21
+Angola,11,7
+Areas NES,11,209
+Argentina,11,218
+Armenia,11,125
+Asia NES,11,32
+Asia West NS,11,58
+Australia,11,181
+Austria,11,348
+Azerbaijan,11,119
+Bahamas,11,83
+Bahrain,11,78
+Bangladesh,11,58
+Barbados,11,140
+Belarus,11,80
+Belgium-Lux,11,345
+Belize,11,119
+Benin,11,86
+Bermuda,11,66
+Bolivia,11,98
+Bosnia Herzg,11,162
+Br.Antr.Terr,11,1
+Brazil,11,289
+Bulgaria,11,275
+Burkina Faso,11,85
+Burundi,11,66
+CACM NES,11,1
+Cambodia,11,47
+Cameroon,11,25
+Canada,11,276
+Cent.Afr.Rep,11,14
+Chad,11,8
+Chile,11,159
+China,11,267
+China FTZ,11,198
+China HK SAR,11,236
+China MC SAR,11,58
+Colombia,11,187
+Congo,11,21
+Costa Rica,11,133
+Cote Divoire,11,66
+Croatia,11,242
+Cuba,11,63
+Cyprus,11,182
+Czech Rep,11,359
+Dem.Rp.Congo,11,21
+Denmark,11,279
+Djibouti,11,63
+Dominican Rp,11,100
+EEC NES,11,27
+Ecuador,11,78
+Egypt,11,154
+El Salvador,11,130
+Eq.Guinea,11,11
+Estonia,11,187
+Ethiopia,11,34
+Eur.Other NE,11,18
+Falkland Is,11,28
+Fiji,11,113
+Finland,11,188
+Fr Ind O,11,15
+Fr.Guiana,11,1
+"France,Monac",11,392
+Gabon,11,61
+Gambia,11,95
+Georgia,11,166
+Germany,11,364
+Ghana,11,58
+Gibraltar,11,25
+Greece,11,270
+Greenland,11,21
+Guadeloupe,11,8
+Guatemala,11,93
+Guinea,11,25
+GuineaBissau,11,100
+Guyana,11,49
+Haiti,11,70
+Honduras,11,70
+Hungary,11,267
+Iceland,11,101
+India,11,274
+Indonesia,11,272
+Iran,11,38
+Iraq,11,3
+Ireland,11,178
+Israel,11,218
+Italy,11,352
+Jamaica,11,120
+Japan,11,239
+Jordan,11,181
+Kazakhstan,11,74
+Kenya,11,93
+Kiribati,11,30
+Korea D P Rp,11,229
+Korea Rep.,11,255
+Kuwait,11,16
+Kyrgyzstan,11,168
+LAIA NES,11,0
+Lao P.Dem.R,11,53
+Latvia,11,123
+Lebanon,11,163
+Liberia,11,12
+Libya,11,16
+Lithuania,11,210
+Madagascar,11,74
+Malawi,11,46
+Malaysia,11,171
+Mali,11,122
+Malta,11,120
+Mauritania,11,14
+Mauritius,11,68
+Mexico,11,238
+Mongolia,11,58
+Morocco,11,168
+Mozambique,11,139
+Myanmar,11,83
+Nepal,11,72
+Neth.Ant.Aru,11,83
+Netherlands,11,327
+Neutral Zone,11,2
+New Calednia,11,22
+New Zealand,11,227
+Nicaragua,11,61
+Niger,11,20
+Nigeria,11,27
+Norway,11,151
+Occ.Pal.Terr,11,6
+Oman,11,40
+Oth.Oceania,11,84
+Pakistan,11,114
+Panama,11,132
+Papua N.Guin,11,32
+Paraguay,11,101
+Peru,11,149
+Philippines,11,125
+Poland,11,331
+Portugal,11,273
+Qatar,11,38
+Rep Moldova,11,160
+Romania,11,244
+Russian Fed,11,169
+Rwanda,11,22
+Samoa,11,34
+Saudi Arabia,11,22
+Senegal,11,71
+Seychelles,11,16
+Sierra Leone,11,120
+Singapore,11,157
+Slovakia,11,255
+Slovenia,11,266
+Somalia,11,19
+South Africa,11,222
+Spain,11,369
+Sri Lanka,11,162
+St.Helena,11,13
+St.Kt-Nev-An,11,76
+St.Pierre Mq,11,7
+Sudan,11,36
+Suriname,11,27
+Sweden,11,228
+Switz.Liecht,11,272
+Syria,11,75
+TFYR Macedna,11,111
+Taiwan,11,244
+Tajikistan,11,65
+Tanzania,11,67
+Thailand,11,288
+Togo,11,73
+Trinidad Tbg,11,76
+Tunisia,11,141
+Turkey,11,289
+Turkmenistan,11,59
+UK,11,312
+US NES,11,62
+USA,11,352
+Uganda,11,35
+Ukraine,11,256
+Untd Arab Em,11,99
+Uruguay,11,208
+Uzbekistan,11,145
+Venezuela,11,67
+Viet Nam,11,129
+Yemen,11,19
+Yugoslavia,11,224
+Zambia,11,45
+Zimbabwe,11,120
+Afghanistan,12,111
+Afr.Other NS,12,10
+Africa N.NES,12,0
+Albania,12,160
+Algeria,12,21
+Angola,12,7
+Areas NES,12,209
+Argentina,12,221
+Armenia,12,125
+Asia NES,12,32
+Asia West NS,12,58
+Australia,12,181
+Austria,12,348
+Azerbaijan,12,122
+Bahamas,12,84
+Bahrain,12,78
+Bangladesh,12,58
+Barbados,12,140
+Belarus,12,80
+Belgium-Lux,12,345
+Belize,12,119
+Benin,12,86
+Bermuda,12,66
+Bolivia,12,98
+Bosnia Herzg,12,162
+Br.Antr.Terr,12,1
+Brazil,12,289
+Bulgaria,12,275
+Burkina Faso,12,85
+Burundi,12,66
+CACM NES,12,1
+Cambodia,12,47
+Cameroon,12,25
+Canada,12,276
+Cent.Afr.Rep,12,14
+Chad,12,8
+Chile,12,159
+China,12,267
+China FTZ,12,198
+China HK SAR,12,236
+China MC SAR,12,58
+Colombia,12,187
+Congo,12,21
+Costa Rica,12,133
+Cote Divoire,12,66
+Croatia,12,242
+Cuba,12,63
+Cyprus,12,182
+Czech Rep,12,359
+Dem.Rp.Congo,12,21
+Denmark,12,279
+Djibouti,12,63
+Dominican Rp,12,100
+EEC NES,12,27
+Ecuador,12,78
+Egypt,12,154
+El Salvador,12,130
+Eq.Guinea,12,11
+Estonia,12,187
+Ethiopia,12,34
+Eur.Other NE,12,18
+Falkland Is,12,28
+Fiji,12,116
+Finland,12,188
+Fr Ind O,12,15
+Fr.Guiana,12,1
+"France,Monac",12,392
+Gabon,12,61
+Gambia,12,95
+Georgia,12,166
+Germany,12,364
+Ghana,12,58
+Gibraltar,12,25
+Greece,12,270
+Greenland,12,21
+Guadeloupe,12,8
+Guatemala,12,93
+Guinea,12,25
+GuineaBissau,12,100
+Guyana,12,49
+Haiti,12,70
+Honduras,12,70
+Hungary,12,267
+Iceland,12,101
+India,12,274
+Indonesia,12,272
+Iran,12,38
+Iraq,12,3
+Ireland,12,178
+Israel,12,218
+Italy,12,352
+Jamaica,12,120
+Japan,12,239
+Jordan,12,181
+Kazakhstan,12,74
+Kenya,12,93
+Kiribati,12,30
+Korea D P Rp,12,229
+Korea Rep.,12,255
+Kuwait,12,16
+Kyrgyzstan,12,169
+LAIA NES,12,0
+Lao P.Dem.R,12,53
+Latvia,12,123
+Lebanon,12,163
+Liberia,12,12
+Libya,12,16
+Lithuania,12,210
+Madagascar,12,74
+Malawi,12,46
+Malaysia,12,171
+Mali,12,122
+Malta,12,120
+Mauritania,12,14
+Mauritius,12,68
+Mexico,12,238
+Mongolia,12,58
+Morocco,12,171
+Mozambique,12,139
+Myanmar,12,83
+Nepal,12,72
+Neth.Ant.Aru,12,83
+Netherlands,12,327
+Neutral Zone,12,2
+New Calednia,12,22
+New Zealand,12,227
+Nicaragua,12,61
+Niger,12,20
+Nigeria,12,27
+Norway,12,151
+Occ.Pal.Terr,12,6
+Oman,12,40
+Oth.Oceania,12,84
+Pakistan,12,114
+Panama,12,132
+Papua N.Guin,12,32
+Paraguay,12,101
+Peru,12,149
+Philippines,12,125
+Poland,12,331
+Portugal,12,273
+Qatar,12,38
+Rep Moldova,12,160
+Romania,12,244
+Russian Fed,12,169
+Rwanda,12,22
+Samoa,12,34
+Saudi Arabia,12,22
+Senegal,12,71
+Seychelles,12,16
+Sierra Leone,12,120
+Singapore,12,157
+Slovakia,12,255
+Slovenia,12,266
+Somalia,12,19
+South Africa,12,222
+Spain,12,369
+Sri Lanka,12,162
+St.Helena,12,13
+St.Kt-Nev-An,12,76
+St.Pierre Mq,12,7
+Sudan,12,36
+Suriname,12,27
+Sweden,12,228
+Switz.Liecht,12,272
+Syria,12,75
+TFYR Macedna,12,111
+Taiwan,12,244
+Tajikistan,12,65
+Tanzania,12,67
+Thailand,12,288
+Togo,12,73
+Trinidad Tbg,12,77
+Tunisia,12,141
+Turkey,12,289
+Turkmenistan,12,59
+UK,12,312
+US NES,12,62
+USA,12,352
+Uganda,12,35
+Ukraine,12,256
+Untd Arab Em,12,99
+Uruguay,12,208
+Uzbekistan,12,145
+Venezuela,12,67
+Viet Nam,12,129
+Yemen,12,19
+Yugoslavia,12,224
+Zambia,12,45
+Zimbabwe,12,120
+Afghanistan,13,111
+Afr.Other NS,13,10
+Africa N.NES,13,0
+Albania,13,160
+Algeria,13,21
+Angola,13,7
+Areas NES,13,209
+Argentina,13,223
+Armenia,13,125
+Asia NES,13,32
+Asia West NS,13,58
+Australia,13,181
+Austria,13,348
+Azerbaijan,13,124
+Bahamas,13,85
+Bahrain,13,78
+Bangladesh,13,58
+Barbados,13,140
+Belarus,13,80
+Belgium-Lux,13,345
+Belize,13,119
+Benin,13,86
+Bermuda,13,66
+Bolivia,13,98
+Bosnia Herzg,13,162
+Br.Antr.Terr,13,1
+Brazil,13,289
+Bulgaria,13,275
+Burkina Faso,13,85
+Burundi,13,66
+CACM NES,13,1
+Cambodia,13,47
+Cameroon,13,25
+Canada,13,276
+Cent.Afr.Rep,13,14
+Chad,13,8
+Chile,13,159
+China,13,267
+China FTZ,13,198
+China HK SAR,13,236
+China MC SAR,13,58
+Colombia,13,187
+Congo,13,21
+Costa Rica,13,133
+Cote Divoire,13,66
+Croatia,13,242
+Cuba,13,63
+Cyprus,13,182
+Czech Rep,13,359
+Dem.Rp.Congo,13,21
+Denmark,13,279
+Djibouti,13,63
+Dominican Rp,13,100
+EEC NES,13,27
+Ecuador,13,78
+Egypt,13,154
+El Salvador,13,130
+Eq.Guinea,13,11
+Estonia,13,187
+Ethiopia,13,34
+Eur.Other NE,13,18
+Falkland Is,13,28
+Fiji,13,118
+Finland,13,188
+Fr Ind O,13,15
+Fr.Guiana,13,1
+"France,Monac",13,392
+Gabon,13,61
+Gambia,13,95
+Georgia,13,166
+Germany,13,364
+Ghana,13,58
+Gibraltar,13,25
+Greece,13,270
+Greenland,13,21
+Guadeloupe,13,8
+Guatemala,13,93
+Guinea,13,25
+GuineaBissau,13,100
+Guyana,13,49
+Haiti,13,70
+Honduras,13,70
+Hungary,13,267
+Iceland,13,101
+India,13,274
+Indonesia,13,272
+Iran,13,38
+Iraq,13,3
+Ireland,13,178
+Israel,13,218
+Italy,13,352
+Jamaica,13,120
+Japan,13,239
+Jordan,13,181
+Kazakhstan,13,74
+Kenya,13,93
+Kiribati,13,30
+Korea D P Rp,13,229
+Korea Rep.,13,255
+Kuwait,13,16
+Kyrgyzstan,13,171
+LAIA NES,13,0
+Lao P.Dem.R,13,53
+Latvia,13,123
+Lebanon,13,163
+Liberia,13,12
+Libya,13,16
+Lithuania,13,210
+Madagascar,13,74
+Malawi,13,46
+Malaysia,13,171
+Mali,13,122
+Malta,13,120
+Mauritania,13,14
+Mauritius,13,68
+Mexico,13,238
+Mongolia,13,58
+Morocco,13,173
+Mozambique,13,139
+Myanmar,13,83
+Nepal,13,72
+Neth.Ant.Aru,13,83
+Netherlands,13,327
+Neutral Zone,13,2
+New Calednia,13,22
+New Zealand,13,227
+Nicaragua,13,61
+Niger,13,20
+Nigeria,13,27
+Norway,13,151
+Occ.Pal.Terr,13,6
+Oman,13,40
+Oth.Oceania,13,84
+Pakistan,13,114
+Panama,13,132
+Papua N.Guin,13,32
+Paraguay,13,101
+Peru,13,149
+Philippines,13,125
+Poland,13,331
+Portugal,13,273
+Qatar,13,38
+Rep Moldova,13,160
+Romania,13,244
+Russian Fed,13,169
+Rwanda,13,22
+Samoa,13,34
+Saudi Arabia,13,22
+Senegal,13,71
+Seychelles,13,16
+Sierra Leone,13,120
+Singapore,13,157
+Slovakia,13,255
+Slovenia,13,266
+Somalia,13,19
+South Africa,13,222
+Spain,13,369
+Sri Lanka,13,162
+St.Helena,13,13
+St.Kt-Nev-An,13,76
+St.Pierre Mq,13,7
+Sudan,13,36
+Suriname,13,27
+Sweden,13,228
+Switz.Liecht,13,272
+Syria,13,75
+TFYR Macedna,13,111
+Taiwan,13,244
+Tajikistan,13,65
+Tanzania,13,67
+Thailand,13,288
+Togo,13,73
+Trinidad Tbg,13,78
+Tunisia,13,141
+Turkey,13,289
+Turkmenistan,13,59
+UK,13,312
+US NES,13,62
+USA,13,352
+Uganda,13,35
+Ukraine,13,256
+Untd Arab Em,13,99
+Uruguay,13,208
+Uzbekistan,13,145
+Venezuela,13,67
+Viet Nam,13,129
+Yemen,13,19
+Yugoslavia,13,224
+Zambia,13,45
+Zimbabwe,13,120
+Afghanistan,14,111
+Afr.Other NS,14,10
+Africa N.NES,14,0
+Albania,14,160
+Algeria,14,21
+Angola,14,7
+Areas NES,14,209
+Argentina,14,224
+Armenia,14,125
+Asia NES,14,32
+Asia West NS,14,58
+Australia,14,181
+Austria,14,348
+Azerbaijan,14,125
+Bahamas,14,87
+Bahrain,14,78
+Bangladesh,14,58
+Barbados,14,140
+Belarus,14,80
+Belgium-Lux,14,345
+Belize,14,119
+Benin,14,86
+Bermuda,14,66
+Bolivia,14,98
+Bosnia Herzg,14,162
+Br.Antr.Terr,14,1
+Brazil,14,289
+Bulgaria,14,275
+Burkina Faso,14,85
+Burundi,14,66
+CACM NES,14,1
+Cambodia,14,47
+Cameroon,14,25
+Canada,14,276
+Cent.Afr.Rep,14,14
+Chad,14,8
+Chile,14,159
+China,14,267
+China FTZ,14,198
+China HK SAR,14,236
+China MC SAR,14,58
+Colombia,14,187
+Congo,14,21
+Costa Rica,14,133
+Cote Divoire,14,66
+Croatia,14,242
+Cuba,14,63
+Cyprus,14,182
+Czech Rep,14,359
+Dem.Rp.Congo,14,21
+Denmark,14,279
+Djibouti,14,63
+Dominican Rp,14,100
+EEC NES,14,27
+Ecuador,14,78
+Egypt,14,154
+El Salvador,14,130
+Eq.Guinea,14,11
+Estonia,14,187
+Ethiopia,14,34
+Eur.Other NE,14,18
+Falkland Is,14,28
+Fiji,14,119
+Finland,14,188
+Fr Ind O,14,15
+Fr.Guiana,14,1
+"France,Monac",14,392
+Gabon,14,61
+Gambia,14,95
+Georgia,14,166
+Germany,14,364
+Ghana,14,58
+Gibraltar,14,25
+Greece,14,270
+Greenland,14,21
+Guadeloupe,14,8
+Guatemala,14,93
+Guinea,14,25
+GuineaBissau,14,100
+Guyana,14,49
+Haiti,14,70
+Honduras,14,70
+Hungary,14,267
+Iceland,14,101
+India,14,274
+Indonesia,14,272
+Iran,14,38
+Iraq,14,3
+Ireland,14,178
+Israel,14,218
+Italy,14,352
+Jamaica,14,120
+Japan,14,239
+Jordan,14,181
+Kazakhstan,14,74
+Kenya,14,93
+Kiribati,14,30
+Korea D P Rp,14,229
+Korea Rep.,14,255
+Kuwait,14,16
+Kyrgyzstan,14,171
+LAIA NES,14,0
+Lao P.Dem.R,14,53
+Latvia,14,123
+Lebanon,14,163
+Liberia,14,12
+Libya,14,16
+Lithuania,14,210
+Madagascar,14,74
+Malawi,14,46
+Malaysia,14,171
+Mali,14,122
+Malta,14,120
+Mauritania,14,14
+Mauritius,14,68
+Mexico,14,238
+Mongolia,14,58
+Morocco,14,174
+Mozambique,14,139
+Myanmar,14,83
+Nepal,14,72
+Neth.Ant.Aru,14,83
+Netherlands,14,327
+Neutral Zone,14,2
+New Calednia,14,22
+New Zealand,14,227
+Nicaragua,14,61
+Niger,14,20
+Nigeria,14,27
+Norway,14,151
+Occ.Pal.Terr,14,6
+Oman,14,40
+Oth.Oceania,14,84
+Pakistan,14,114
+Panama,14,132
+Papua N.Guin,14,32
+Paraguay,14,101
+Peru,14,149
+Philippines,14,125
+Poland,14,331
+Portugal,14,273
+Qatar,14,38
+Rep Moldova,14,160
+Romania,14,244
+Russian Fed,14,169
+Rwanda,14,22
+Samoa,14,34
+Saudi Arabia,14,22
+Senegal,14,71
+Seychelles,14,16
+Sierra Leone,14,120
+Singapore,14,157
+Slovakia,14,255
+Slovenia,14,266
+Somalia,14,19
+South Africa,14,222
+Spain,14,369
+Sri Lanka,14,162
+St.Helena,14,13
+St.Kt-Nev-An,14,76
+St.Pierre Mq,14,7
+Sudan,14,36
+Suriname,14,27
+Sweden,14,228
+Switz.Liecht,14,272
+Syria,14,75
+TFYR Macedna,14,111
+Taiwan,14,244
+Tajikistan,14,65
+Tanzania,14,67
+Thailand,14,288
+Togo,14,73
+Trinidad Tbg,14,80
+Tunisia,14,141
+Turkey,14,289
+Turkmenistan,14,59
+UK,14,312
+US NES,14,62
+USA,14,352
+Uganda,14,35
+Ukraine,14,256
+Untd Arab Em,14,99
+Uruguay,14,208
+Uzbekistan,14,145
+Venezuela,14,67
+Viet Nam,14,129
+Yemen,14,19
+Yugoslavia,14,224
+Zambia,14,45
+Zimbabwe,14,120
+Afghanistan,15,111
+Afr.Other NS,15,10
+Africa N.NES,15,0
+Albania,15,160
+Algeria,15,21
+Angola,15,7
+Areas NES,15,209
+Argentina,15,224
+Armenia,15,125
+Asia NES,15,32
+Asia West NS,15,58
+Australia,15,181
+Austria,15,348
+Azerbaijan,15,125
+Bahamas,15,87
+Bahrain,15,78
+Bangladesh,15,58
+Barbados,15,140
+Belarus,15,80
+Belgium-Lux,15,345
+Belize,15,119
+Benin,15,86
+Bermuda,15,66
+Bolivia,15,98
+Bosnia Herzg,15,162
+Br.Antr.Terr,15,1
+Brazil,15,289
+Bulgaria,15,275
+Burkina Faso,15,85
+Burundi,15,66
+CACM NES,15,1
+Cambodia,15,47
+Cameroon,15,25
+Canada,15,276
+Cent.Afr.Rep,15,14
+Chad,15,8
+Chile,15,159
+China,15,267
+China FTZ,15,198
+China HK SAR,15,236
+China MC SAR,15,58
+Colombia,15,187
+Congo,15,21
+Costa Rica,15,133
+Cote Divoire,15,66
+Croatia,15,242
+Cuba,15,63
+Cyprus,15,182
+Czech Rep,15,359
+Dem.Rp.Congo,15,21
+Denmark,15,279
+Djibouti,15,63
+Dominican Rp,15,100
+EEC NES,15,27
+Ecuador,15,78
+Egypt,15,154
+El Salvador,15,130
+Eq.Guinea,15,11
+Estonia,15,187
+Ethiopia,15,34
+Eur.Other NE,15,18
+Falkland Is,15,28
+Fiji,15,119
+Finland,15,188
+Fr Ind O,15,15
+Fr.Guiana,15,1
+"France,Monac",15,392
+Gabon,15,61
+Gambia,15,95
+Georgia,15,166
+Germany,15,364
+Ghana,15,58
+Gibraltar,15,25
+Greece,15,270
+Greenland,15,21
+Guadeloupe,15,8
+Guatemala,15,93
+Guinea,15,25
+GuineaBissau,15,100
+Guyana,15,49
+Haiti,15,70
+Honduras,15,70
+Hungary,15,267
+Iceland,15,101
+India,15,274
+Indonesia,15,272
+Iran,15,38
+Iraq,15,3
+Ireland,15,178
+Israel,15,218
+Italy,15,352
+Jamaica,15,120
+Japan,15,239
+Jordan,15,181
+Kazakhstan,15,74
+Kenya,15,93
+Kiribati,15,30
+Korea D P Rp,15,229
+Korea Rep.,15,255
+Kuwait,15,16
+Kyrgyzstan,15,171
+LAIA NES,15,0
+Lao P.Dem.R,15,53
+Latvia,15,123
+Lebanon,15,163
+Liberia,15,12
+Libya,15,16
+Lithuania,15,210
+Madagascar,15,74
+Malawi,15,46
+Malaysia,15,171
+Mali,15,122
+Malta,15,120
+Mauritania,15,14
+Mauritius,15,68
+Mexico,15,238
+Mongolia,15,58
+Morocco,15,174
+Mozambique,15,139
+Myanmar,15,83
+Nepal,15,72
+Neth.Ant.Aru,15,83
+Netherlands,15,327
+Neutral Zone,15,2
+New Calednia,15,22
+New Zealand,15,227
+Nicaragua,15,61
+Niger,15,20
+Nigeria,15,27
+Norway,15,151
+Occ.Pal.Terr,15,6
+Oman,15,40
+Oth.Oceania,15,84
+Pakistan,15,114
+Panama,15,132
+Papua N.Guin,15,32
+Paraguay,15,101
+Peru,15,149
+Philippines,15,125
+Poland,15,331
+Portugal,15,273
+Qatar,15,38
+Rep Moldova,15,160
+Romania,15,244
+Russian Fed,15,169
+Rwanda,15,22
+Samoa,15,34
+Saudi Arabia,15,22
+Senegal,15,71
+Seychelles,15,16
+Sierra Leone,15,120
+Singapore,15,157
+Slovakia,15,255
+Slovenia,15,266
+Somalia,15,19
+South Africa,15,222
+Spain,15,369
+Sri Lanka,15,162
+St.Helena,15,13
+St.Kt-Nev-An,15,76
+St.Pierre Mq,15,7
+Sudan,15,36
+Suriname,15,27
+Sweden,15,228
+Switz.Liecht,15,272
+Syria,15,75
+TFYR Macedna,15,111
+Taiwan,15,244
+Tajikistan,15,65
+Tanzania,15,67
+Thailand,15,288
+Togo,15,73
+Trinidad Tbg,15,80
+Tunisia,15,141
+Turkey,15,289
+Turkmenistan,15,59
+UK,15,312
+US NES,15,62
+USA,15,352
+Uganda,15,35
+Ukraine,15,256
+Untd Arab Em,15,99
+Uruguay,15,208
+Uzbekistan,15,145
+Venezuela,15,67
+Viet Nam,15,129
+Yemen,15,19
+Yugoslavia,15,224
+Zambia,15,45
+Zimbabwe,15,120
+Afghanistan,16,111
+Afr.Other NS,16,10
+Africa N.NES,16,0
+Albania,16,160
+Algeria,16,21
+Angola,16,7
+Areas NES,16,209
+Argentina,16,224
+Armenia,16,125
+Asia NES,16,32
+Asia West NS,16,58
+Australia,16,181
+Austria,16,348
+Azerbaijan,16,125
+Bahamas,16,87
+Bahrain,16,78
+Bangladesh,16,58
+Barbados,16,140
+Belarus,16,80
+Belgium-Lux,16,345
+Belize,16,119
+Benin,16,86
+Bermuda,16,66
+Bolivia,16,98
+Bosnia Herzg,16,162
+Br.Antr.Terr,16,1
+Brazil,16,289
+Bulgaria,16,275
+Burkina Faso,16,85
+Burundi,16,66
+CACM NES,16,1
+Cambodia,16,47
+Cameroon,16,25
+Canada,16,276
+Cent.Afr.Rep,16,14
+Chad,16,8
+Chile,16,159
+China,16,267
+China FTZ,16,198
+China HK SAR,16,236
+China MC SAR,16,58
+Colombia,16,187
+Congo,16,21
+Costa Rica,16,133
+Cote Divoire,16,66
+Croatia,16,242
+Cuba,16,63
+Cyprus,16,182
+Czech Rep,16,359
+Dem.Rp.Congo,16,21
+Denmark,16,279
+Djibouti,16,63
+Dominican Rp,16,100
+EEC NES,16,27
+Ecuador,16,78
+Egypt,16,154
+El Salvador,16,130
+Eq.Guinea,16,11
+Estonia,16,187
+Ethiopia,16,34
+Eur.Other NE,16,18
+Falkland Is,16,28
+Fiji,16,119
+Finland,16,188
+Fr Ind O,16,15
+Fr.Guiana,16,1
+"France,Monac",16,392
+Gabon,16,61
+Gambia,16,95
+Georgia,16,166
+Germany,16,364
+Ghana,16,58
+Gibraltar,16,25
+Greece,16,270
+Greenland,16,21
+Guadeloupe,16,8
+Guatemala,16,93
+Guinea,16,25
+GuineaBissau,16,100
+Guyana,16,49
+Haiti,16,70
+Honduras,16,70
+Hungary,16,267
+Iceland,16,101
+India,16,274
+Indonesia,16,272
+Iran,16,38
+Iraq,16,3
+Ireland,16,178
+Israel,16,218
+Italy,16,352
+Jamaica,16,120
+Japan,16,239
+Jordan,16,181
+Kazakhstan,16,74
+Kenya,16,93
+Kiribati,16,30
+Korea D P Rp,16,229
+Korea Rep.,16,255
+Kuwait,16,16
+Kyrgyzstan,16,171
+LAIA NES,16,0
+Lao P.Dem.R,16,53
+Latvia,16,123
+Lebanon,16,163
+Liberia,16,12
+Libya,16,16
+Lithuania,16,210
+Madagascar,16,74
+Malawi,16,46
+Malaysia,16,171
+Mali,16,122
+Malta,16,120
+Mauritania,16,14
+Mauritius,16,68
+Mexico,16,238
+Mongolia,16,58
+Morocco,16,174
+Mozambique,16,139
+Myanmar,16,83
+Nepal,16,72
+Neth.Ant.Aru,16,83
+Netherlands,16,327
+Neutral Zone,16,2
+New Calednia,16,22
+New Zealand,16,227
+Nicaragua,16,61
+Niger,16,20
+Nigeria,16,27
+Norway,16,151
+Occ.Pal.Terr,16,6
+Oman,16,40
+Oth.Oceania,16,84
+Pakistan,16,114
+Panama,16,132
+Papua N.Guin,16,32
+Paraguay,16,101
+Peru,16,149
+Philippines,16,125
+Poland,16,331
+Portugal,16,273
+Qatar,16,38
+Rep Moldova,16,160
+Romania,16,244
+Russian Fed,16,169
+Rwanda,16,22
+Samoa,16,34
+Saudi Arabia,16,22
+Senegal,16,71
+Seychelles,16,16
+Sierra Leone,16,120
+Singapore,16,157
+Slovakia,16,255
+Slovenia,16,266
+Somalia,16,19
+South Africa,16,222
+Spain,16,369
+Sri Lanka,16,162
+St.Helena,16,13
+St.Kt-Nev-An,16,76
+St.Pierre Mq,16,7
+Sudan,16,36
+Suriname,16,27
+Sweden,16,228
+Switz.Liecht,16,272
+Syria,16,75
+TFYR Macedna,16,111
+Taiwan,16,244
+Tajikistan,16,65
+Tanzania,16,67
+Thailand,16,288
+Togo,16,73
+Trinidad Tbg,16,80
+Tunisia,16,141
+Turkey,16,289
+Turkmenistan,16,59
+UK,16,312
+US NES,16,62
+USA,16,352
+Uganda,16,35
+Ukraine,16,256
+Untd Arab Em,16,99
+Uruguay,16,208
+Uzbekistan,16,145
+Venezuela,16,67
+Viet Nam,16,129
+Yemen,16,19
+Yugoslavia,16,224
+Zambia,16,45
+Zimbabwe,16,120
+Afghanistan,17,111
+Afr.Other NS,17,10
+Africa N.NES,17,0
+Albania,17,160
+Algeria,17,21
+Angola,17,7
+Areas NES,17,209
+Argentina,17,224
+Armenia,17,125
+Asia NES,17,32
+Asia West NS,17,58
+Australia,17,181
+Austria,17,348
+Azerbaijan,17,125
+Bahamas,17,87
+Bahrain,17,78
+Bangladesh,17,58
+Barbados,17,140
+Belarus,17,80
+Belgium-Lux,17,345
+Belize,17,119
+Benin,17,86
+Bermuda,17,66
+Bolivia,17,98
+Bosnia Herzg,17,162
+Br.Antr.Terr,17,1
+Brazil,17,289
+Bulgaria,17,275
+Burkina Faso,17,85
+Burundi,17,66
+CACM NES,17,1
+Cambodia,17,47
+Cameroon,17,25
+Canada,17,276
+Cent.Afr.Rep,17,14
+Chad,17,8
+Chile,17,159
+China,17,267
+China FTZ,17,198
+China HK SAR,17,236
+China MC SAR,17,58
+Colombia,17,187
+Congo,17,21
+Costa Rica,17,133
+Cote Divoire,17,66
+Croatia,17,242
+Cuba,17,63
+Cyprus,17,182
+Czech Rep,17,359
+Dem.Rp.Congo,17,21
+Denmark,17,279
+Djibouti,17,63
+Dominican Rp,17,100
+EEC NES,17,27
+Ecuador,17,78
+Egypt,17,154
+El Salvador,17,130
+Eq.Guinea,17,11
+Estonia,17,187
+Ethiopia,17,34
+Eur.Other NE,17,18
+Falkland Is,17,28
+Fiji,17,119
+Finland,17,188
+Fr Ind O,17,15
+Fr.Guiana,17,1
+"France,Monac",17,392
+Gabon,17,61
+Gambia,17,95
+Georgia,17,166
+Germany,17,364
+Ghana,17,58
+Gibraltar,17,25
+Greece,17,270
+Greenland,17,21
+Guadeloupe,17,8
+Guatemala,17,93
+Guinea,17,25
+GuineaBissau,17,100
+Guyana,17,49
+Haiti,17,70
+Honduras,17,70
+Hungary,17,267
+Iceland,17,101
+India,17,274
+Indonesia,17,272
+Iran,17,38
+Iraq,17,3
+Ireland,17,178
+Israel,17,218
+Italy,17,352
+Jamaica,17,120
+Japan,17,239
+Jordan,17,181
+Kazakhstan,17,74
+Kenya,17,93
+Kiribati,17,30
+Korea D P Rp,17,229
+Korea Rep.,17,255
+Kuwait,17,16
+Kyrgyzstan,17,171
+LAIA NES,17,0
+Lao P.Dem.R,17,53
+Latvia,17,123
+Lebanon,17,163
+Liberia,17,12
+Libya,17,16
+Lithuania,17,210
+Madagascar,17,74
+Malawi,17,46
+Malaysia,17,171
+Mali,17,122
+Malta,17,120
+Mauritania,17,14
+Mauritius,17,68
+Mexico,17,238
+Mongolia,17,58
+Morocco,17,174
+Mozambique,17,139
+Myanmar,17,83
+Nepal,17,72
+Neth.Ant.Aru,17,83
+Netherlands,17,327
+Neutral Zone,17,2
+New Calednia,17,22
+New Zealand,17,227
+Nicaragua,17,61
+Niger,17,20
+Nigeria,17,27
+Norway,17,151
+Occ.Pal.Terr,17,6
+Oman,17,40
+Oth.Oceania,17,84
+Pakistan,17,114
+Panama,17,132
+Papua N.Guin,17,32
+Paraguay,17,101
+Peru,17,149
+Philippines,17,125
+Poland,17,331
+Portugal,17,273
+Qatar,17,38
+Rep Moldova,17,160
+Romania,17,244
+Russian Fed,17,169
+Rwanda,17,22
+Samoa,17,34
+Saudi Arabia,17,22
+Senegal,17,71
+Seychelles,17,16
+Sierra Leone,17,120
+Singapore,17,157
+Slovakia,17,255
+Slovenia,17,266
+Somalia,17,19
+South Africa,17,222
+Spain,17,369
+Sri Lanka,17,162
+St.Helena,17,13
+St.Kt-Nev-An,17,76
+St.Pierre Mq,17,7
+Sudan,17,36
+Suriname,17,27
+Sweden,17,228
+Switz.Liecht,17,272
+Syria,17,75
+TFYR Macedna,17,111
+Taiwan,17,244
+Tajikistan,17,65
+Tanzania,17,67
+Thailand,17,288
+Togo,17,73
+Trinidad Tbg,17,80
+Tunisia,17,141
+Turkey,17,289
+Turkmenistan,17,59
+UK,17,312
+US NES,17,62
+USA,17,352
+Uganda,17,35
+Ukraine,17,256
+Untd Arab Em,17,99
+Uruguay,17,208
+Uzbekistan,17,145
+Venezuela,17,67
+Viet Nam,17,129
+Yemen,17,19
+Yugoslavia,17,224
+Zambia,17,45
+Zimbabwe,17,120
+Afghanistan,18,111
+Afr.Other NS,18,10
+Africa N.NES,18,0
+Albania,18,160
+Algeria,18,21
+Angola,18,7
+Areas NES,18,209
+Argentina,18,224
+Armenia,18,125
+Asia NES,18,32
+Asia West NS,18,58
+Australia,18,181
+Austria,18,348
+Azerbaijan,18,125
+Bahamas,18,87
+Bahrain,18,78
+Bangladesh,18,58
+Barbados,18,140
+Belarus,18,80
+Belgium-Lux,18,345
+Belize,18,119
+Benin,18,86
+Bermuda,18,66
+Bolivia,18,98
+Bosnia Herzg,18,162
+Br.Antr.Terr,18,1
+Brazil,18,289
+Bulgaria,18,275
+Burkina Faso,18,85
+Burundi,18,66
+CACM NES,18,1
+Cambodia,18,47
+Cameroon,18,25
+Canada,18,276
+Cent.Afr.Rep,18,14
+Chad,18,8
+Chile,18,159
+China,18,267
+China FTZ,18,198
+China HK SAR,18,236
+China MC SAR,18,58
+Colombia,18,187
+Congo,18,21
+Costa Rica,18,133
+Cote Divoire,18,66
+Croatia,18,242
+Cuba,18,63
+Cyprus,18,182
+Czech Rep,18,359
+Dem.Rp.Congo,18,21
+Denmark,18,279
+Djibouti,18,63
+Dominican Rp,18,100
+EEC NES,18,27
+Ecuador,18,78
+Egypt,18,154
+El Salvador,18,130
+Eq.Guinea,18,11
+Estonia,18,187
+Ethiopia,18,34
+Eur.Other NE,18,18
+Falkland Is,18,28
+Fiji,18,119
+Finland,18,188
+Fr Ind O,18,15
+Fr.Guiana,18,1
+"France,Monac",18,392
+Gabon,18,61
+Gambia,18,95
+Georgia,18,166
+Germany,18,364
+Ghana,18,58
+Gibraltar,18,25
+Greece,18,270
+Greenland,18,21
+Guadeloupe,18,8
+Guatemala,18,93
+Guinea,18,25
+GuineaBissau,18,100
+Guyana,18,49
+Haiti,18,70
+Honduras,18,70
+Hungary,18,267
+Iceland,18,101
+India,18,274
+Indonesia,18,272
+Iran,18,38
+Iraq,18,3
+Ireland,18,178
+Israel,18,218
+Italy,18,352
+Jamaica,18,120
+Japan,18,239
+Jordan,18,181
+Kazakhstan,18,74
+Kenya,18,93
+Kiribati,18,30
+Korea D P Rp,18,229
+Korea Rep.,18,255
+Kuwait,18,16
+Kyrgyzstan,18,171
+LAIA NES,18,0
+Lao P.Dem.R,18,53
+Latvia,18,123
+Lebanon,18,163
+Liberia,18,12
+Libya,18,16
+Lithuania,18,210
+Madagascar,18,74
+Malawi,18,46
+Malaysia,18,171
+Mali,18,122
+Malta,18,120
+Mauritania,18,14
+Mauritius,18,68
+Mexico,18,238
+Mongolia,18,58
+Morocco,18,174
+Mozambique,18,139
+Myanmar,18,83
+Nepal,18,72
+Neth.Ant.Aru,18,83
+Netherlands,18,327
+Neutral Zone,18,2
+New Calednia,18,22
+New Zealand,18,227
+Nicaragua,18,61
+Niger,18,20
+Nigeria,18,27
+Norway,18,151
+Occ.Pal.Terr,18,6
+Oman,18,40
+Oth.Oceania,18,84
+Pakistan,18,114
+Panama,18,132
+Papua N.Guin,18,32
+Paraguay,18,101
+Peru,18,149
+Philippines,18,125
+Poland,18,331
+Portugal,18,273
+Qatar,18,38
+Rep Moldova,18,160
+Romania,18,244
+Russian Fed,18,169
+Rwanda,18,22
+Samoa,18,34
+Saudi Arabia,18,22
+Senegal,18,71
+Seychelles,18,16
+Sierra Leone,18,120
+Singapore,18,157
+Slovakia,18,255
+Slovenia,18,266
+Somalia,18,19
+South Africa,18,222
+Spain,18,369
+Sri Lanka,18,162
+St.Helena,18,13
+St.Kt-Nev-An,18,76
+St.Pierre Mq,18,7
+Sudan,18,36
+Suriname,18,27
+Sweden,18,228
+Switz.Liecht,18,272
+Syria,18,75
+TFYR Macedna,18,111
+Taiwan,18,244
+Tajikistan,18,65
+Tanzania,18,67
+Thailand,18,288
+Togo,18,73
+Trinidad Tbg,18,80
+Tunisia,18,141
+Turkey,18,289
+Turkmenistan,18,59
+UK,18,312
+US NES,18,62
+USA,18,352
+Uganda,18,35
+Ukraine,18,256
+Untd Arab Em,18,99
+Uruguay,18,208
+Uzbekistan,18,145
+Venezuela,18,67
+Viet Nam,18,129
+Yemen,18,19
+Yugoslavia,18,224
+Zambia,18,45
+Zimbabwe,18,120
+Afghanistan,19,111
+Afr.Other NS,19,10
+Africa N.NES,19,0
+Albania,19,160
+Algeria,19,21
+Angola,19,7
+Areas NES,19,209
+Argentina,19,224
+Armenia,19,125
+Asia NES,19,32
+Asia West NS,19,58
+Australia,19,181
+Austria,19,348
+Azerbaijan,19,125
+Bahamas,19,87
+Bahrain,19,78
+Bangladesh,19,58
+Barbados,19,140
+Belarus,19,80
+Belgium-Lux,19,345
+Belize,19,119
+Benin,19,86
+Bermuda,19,66
+Bolivia,19,98
+Bosnia Herzg,19,162
+Br.Antr.Terr,19,1
+Brazil,19,289
+Bulgaria,19,275
+Burkina Faso,19,85
+Burundi,19,66
+CACM NES,19,1
+Cambodia,19,47
+Cameroon,19,25
+Canada,19,276
+Cent.Afr.Rep,19,14
+Chad,19,8
+Chile,19,159
+China,19,267
+China FTZ,19,198
+China HK SAR,19,236
+China MC SAR,19,58
+Colombia,19,187
+Congo,19,21
+Costa Rica,19,133
+Cote Divoire,19,66
+Croatia,19,242
+Cuba,19,63
+Cyprus,19,182
+Czech Rep,19,359
+Dem.Rp.Congo,19,21
+Denmark,19,279
+Djibouti,19,63
+Dominican Rp,19,100
+EEC NES,19,27
+Ecuador,19,78
+Egypt,19,154
+El Salvador,19,130
+Eq.Guinea,19,11
+Estonia,19,187
+Ethiopia,19,34
+Eur.Other NE,19,18
+Falkland Is,19,28
+Fiji,19,119
+Finland,19,188
+Fr Ind O,19,15
+Fr.Guiana,19,1
+"France,Monac",19,392
+Gabon,19,61
+Gambia,19,95
+Georgia,19,166
+Germany,19,364
+Ghana,19,58
+Gibraltar,19,25
+Greece,19,270
+Greenland,19,21
+Guadeloupe,19,8
+Guatemala,19,93
+Guinea,19,25
+GuineaBissau,19,100
+Guyana,19,49
+Haiti,19,70
+Honduras,19,70
+Hungary,19,267
+Iceland,19,101
+India,19,274
+Indonesia,19,272
+Iran,19,38
+Iraq,19,3
+Ireland,19,178
+Israel,19,218
+Italy,19,352
+Jamaica,19,120
+Japan,19,239
+Jordan,19,181
+Kazakhstan,19,74
+Kenya,19,93
+Kiribati,19,30
+Korea D P Rp,19,229
+Korea Rep.,19,255
+Kuwait,19,16
+Kyrgyzstan,19,171
+LAIA NES,19,0
+Lao P.Dem.R,19,53
+Latvia,19,123
+Lebanon,19,163
+Liberia,19,12
+Libya,19,16
+Lithuania,19,210
+Madagascar,19,74
+Malawi,19,46
+Malaysia,19,171
+Mali,19,122
+Malta,19,120
+Mauritania,19,14
+Mauritius,19,68
+Mexico,19,238
+Mongolia,19,58
+Morocco,19,174
+Mozambique,19,139
+Myanmar,19,83
+Nepal,19,72
+Neth.Ant.Aru,19,83
+Netherlands,19,327
+Neutral Zone,19,2
+New Calednia,19,22
+New Zealand,19,227
+Nicaragua,19,61
+Niger,19,20
+Nigeria,19,27
+Norway,19,151
+Occ.Pal.Terr,19,6
+Oman,19,40
+Oth.Oceania,19,84
+Pakistan,19,114
+Panama,19,132
+Papua N.Guin,19,32
+Paraguay,19,101
+Peru,19,149
+Philippines,19,125
+Poland,19,331
+Portugal,19,273
+Qatar,19,38
+Rep Moldova,19,160
+Romania,19,244
+Russian Fed,19,169
+Rwanda,19,22
+Samoa,19,34
+Saudi Arabia,19,22
+Senegal,19,71
+Seychelles,19,16
+Sierra Leone,19,120
+Singapore,19,157
+Slovakia,19,255
+Slovenia,19,266
+Somalia,19,19
+South Africa,19,222
+Spain,19,369
+Sri Lanka,19,162
+St.Helena,19,13
+St.Kt-Nev-An,19,76
+St.Pierre Mq,19,7
+Sudan,19,36
+Suriname,19,27
+Sweden,19,228
+Switz.Liecht,19,272
+Syria,19,75
+TFYR Macedna,19,111
+Taiwan,19,244
+Tajikistan,19,65
+Tanzania,19,67
+Thailand,19,288
+Togo,19,73
+Trinidad Tbg,19,80
+Tunisia,19,141
+Turkey,19,289
+Turkmenistan,19,59
+UK,19,312
+US NES,19,62
+USA,19,352
+Uganda,19,35
+Ukraine,19,256
+Untd Arab Em,19,99
+Uruguay,19,208
+Uzbekistan,19,145
+Venezuela,19,67
+Viet Nam,19,129
+Yemen,19,19
+Yugoslavia,19,224
+Zambia,19,45
+Zimbabwe,19,120
+Afghanistan,20,111
+Afr.Other NS,20,10
+Africa N.NES,20,0
+Albania,20,160
+Algeria,20,21
+Angola,20,7
+Areas NES,20,209
+Argentina,20,224
+Armenia,20,125
+Asia NES,20,32
+Asia West NS,20,58
+Australia,20,181
+Austria,20,348
+Azerbaijan,20,125
+Bahamas,20,87
+Bahrain,20,78
+Bangladesh,20,58
+Barbados,20,140
+Belarus,20,80
+Belgium-Lux,20,345
+Belize,20,119
+Benin,20,86
+Bermuda,20,66
+Bolivia,20,98
+Bosnia Herzg,20,162
+Br.Antr.Terr,20,1
+Brazil,20,289
+Bulgaria,20,275
+Burkina Faso,20,85
+Burundi,20,66
+CACM NES,20,1
+Cambodia,20,47
+Cameroon,20,25
+Canada,20,276
+Cent.Afr.Rep,20,14
+Chad,20,8
+Chile,20,159
+China,20,267
+China FTZ,20,198
+China HK SAR,20,236
+China MC SAR,20,58
+Colombia,20,187
+Congo,20,21
+Costa Rica,20,133
+Cote Divoire,20,66
+Croatia,20,242
+Cuba,20,63
+Cyprus,20,182
+Czech Rep,20,359
+Dem.Rp.Congo,20,21
+Denmark,20,279
+Djibouti,20,63
+Dominican Rp,20,100
+EEC NES,20,27
+Ecuador,20,78
+Egypt,20,154
+El Salvador,20,130
+Eq.Guinea,20,11
+Estonia,20,187
+Ethiopia,20,34
+Eur.Other NE,20,18
+Falkland Is,20,28
+Fiji,20,119
+Finland,20,188
+Fr Ind O,20,15
+Fr.Guiana,20,1
+"France,Monac",20,392
+Gabon,20,61
+Gambia,20,95
+Georgia,20,166
+Germany,20,364
+Ghana,20,58
+Gibraltar,20,25
+Greece,20,270
+Greenland,20,21
+Guadeloupe,20,8
+Guatemala,20,93
+Guinea,20,25
+GuineaBissau,20,100
+Guyana,20,49
+Haiti,20,70
+Honduras,20,70
+Hungary,20,267
+Iceland,20,101
+India,20,274
+Indonesia,20,272
+Iran,20,38
+Iraq,20,3
+Ireland,20,178
+Israel,20,218
+Italy,20,352
+Jamaica,20,120
+Japan,20,239
+Jordan,20,181
+Kazakhstan,20,74
+Kenya,20,93
+Kiribati,20,30
+Korea D P Rp,20,229
+Korea Rep.,20,255
+Kuwait,20,16
+Kyrgyzstan,20,171
+LAIA NES,20,0
+Lao P.Dem.R,20,53
+Latvia,20,123
+Lebanon,20,163
+Liberia,20,12
+Libya,20,16
+Lithuania,20,210
+Madagascar,20,74
+Malawi,20,46
+Malaysia,20,171
+Mali,20,122
+Malta,20,120
+Mauritania,20,14
+Mauritius,20,68
+Mexico,20,238
+Mongolia,20,58
+Morocco,20,174
+Mozambique,20,139
+Myanmar,20,83
+Nepal,20,72
+Neth.Ant.Aru,20,83
+Netherlands,20,327
+Neutral Zone,20,2
+New Calednia,20,22
+New Zealand,20,227
+Nicaragua,20,61
+Niger,20,20
+Nigeria,20,27
+Norway,20,151
+Occ.Pal.Terr,20,6
+Oman,20,40
+Oth.Oceania,20,84
+Pakistan,20,114
+Panama,20,132
+Papua N.Guin,20,32
+Paraguay,20,101
+Peru,20,149
+Philippines,20,125
+Poland,20,331
+Portugal,20,273
+Qatar,20,38
+Rep Moldova,20,160
+Romania,20,244
+Russian Fed,20,169
+Rwanda,20,22
+Samoa,20,34
+Saudi Arabia,20,22
+Senegal,20,71
+Seychelles,20,16
+Sierra Leone,20,120
+Singapore,20,157
+Slovakia,20,255
+Slovenia,20,266
+Somalia,20,19
+South Africa,20,222
+Spain,20,369
+Sri Lanka,20,162
+St.Helena,20,13
+St.Kt-Nev-An,20,76
+St.Pierre Mq,20,7
+Sudan,20,36
+Suriname,20,27
+Sweden,20,228
+Switz.Liecht,20,272
+Syria,20,75
+TFYR Macedna,20,111
+Taiwan,20,244
+Tajikistan,20,65
+Tanzania,20,67
+Thailand,20,288
+Togo,20,73
+Trinidad Tbg,20,80
+Tunisia,20,141
+Turkey,20,289
+Turkmenistan,20,59
+UK,20,312
+US NES,20,62
+USA,20,352
+Uganda,20,35
+Ukraine,20,256
+Untd Arab Em,20,99
+Uruguay,20,208
+Uzbekistan,20,145
+Venezuela,20,67
+Viet Nam,20,129
+Yemen,20,19
+Yugoslavia,20,224
+Zambia,20,45
+Zimbabwe,20,120
