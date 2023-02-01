@@ -11,11 +11,6 @@ logger = logging.getLogger(__name__)
 class Country(AtomicDEVS):
     def __init__(self, name=None, competitive_exports=None):
         super(Country, self).__init__(name)
-        # logger.error("%s: %s", name, competitive_exports)
-        self.elapsed = 0
-        self.year_elapsed = 0
-        self.competitive_exports = competitive_exports
-        save_competitive_exports(competitive_exports, self.name, self.year_elapsed)
         self.state = {"competitive_exports": competitive_exports}
         self.in_port = self.addInPort("diffusion")
 
@@ -27,16 +22,8 @@ class Country(AtomicDEVS):
             if port.name == "diffusion":
                 self.diffuse(value, self.parent.getContextInformation(ProductSpaceProps.PHI_MATRIX))
                 self.y_up = (self.name, self.state["competitive_exports"])
-                self.year_elapsed += 1
         return self.state
 
     def diffuse(self, big_omega, phi_matrix):
-        # Pongo en 0 los elementos de productos que no se producen
-        # Luego se toma maximo por fila
-        d = (phi_matrix @ np.diagflat(self.competitive_exports)).max(1)
-        save_d_vector(d, self.name, self.year_elapsed)
-        exports = d > big_omega
-        if (exports & ~self.competitive_exports).sum() > 0:
-            logger.error("%s discovered %d new products", self.name, (exports & ~self.competitive_exports).sum())
-        self.state["competitive_exports"] = self.competitive_exports = exports | self.competitive_exports
-        save_competitive_exports(self.competitive_exports, self.name, self.year_elapsed + 1)
+        pi = (phi_matrix @ np.diagflat(self.state["competitive_exports"])).max(1)
+        self.state["competitive_exports"] = pi > big_omega
